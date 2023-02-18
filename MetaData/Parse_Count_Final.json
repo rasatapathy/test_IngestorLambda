@@ -1,0 +1,21 @@
+[
+    {
+        "time_stamp": "2023-02-18 13:11:23.026725",
+        "Records_Parsed": 0,
+        "Total_Count": 12,
+        "FAILED(Old, New)-UNCHANGED-NEW": "(0, 0)-0-0",
+        "Correctness": "TRUE",
+        "Completion Percentage": "0%",
+        "Completion Status": "IN-PROGRESS"
+    },
+    {
+        "time_stamp": "2023-02-18 13:11:23.026670",
+        "Records_Parsed": 12,
+        "Total_Count": 12,
+        "FAILED(Old, New)-UNCHANGED-NEW": "(0,2)-0-10",
+        "Correctness": "TRUE",
+        "Completion Percentage": "100.0%",
+        "Completion Status": "COMPLETED"
+    }
+]
+

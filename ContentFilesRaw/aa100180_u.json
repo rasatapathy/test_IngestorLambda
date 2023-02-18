@@ -1,0 +1,169 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa100180/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa100180/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa100180/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa100180/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa100180/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa100180",
+        "version": "13.6",
+        "hash": "472653074",
+        "certifiedDate": "2022-11-09",
+        "lang": "en-us",
+        "docType": "mini",
+        "type": "mini",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa100180\";\n          org.healthwise.document.section = \"acn1231\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Polyhydramnios\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"Mini\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Polyhydramnios",
+            "englishConsumer": "Polyhydramnios"
+        },
+        "abstract": {
+            "consumer": "What is polyhydramnios? Amniotic fluid surrounds the fetus during pregnancy. Having too much of this fluid is called polyhydramnios. It means that there's more fluid around your baby than there should be. In some cases, too much amniotic fluid doesn't cause problems. In other cases, it can cause problems, such as...",
+            "clinical": "What is polyhydramnios? Amniotic fluid surrounds the fetus during pregnancy. Having too much of this fluid is called polyhydramnios. It means that there's more fluid around your baby than there should be. In some cases, too much amniotic fluid doesn't cause problems. In other cases, it can cause problems, such as..."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-acn1231\"><a class=\"HwLinkNavstack\" data-hwid=\"aa100180\" href=\"#acn1231\" data-section-href=\"acn1231\" data-topicId=\"acn1231\" data-articleId=\"aa100180\" data-document-type=\"Mini\" data-document-href=\"aa100180\">Condition Basics</a></li><li id=\"nav-aa100180-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa100180\" href=\"#aa100180-RelInfo\" data-section-href=\"aa100180-RelInfo\" data-topicId=\"aa100180-RelInfo\" data-articleId=\"aa100180\" data-document-type=\"Mini\" data-document-href=\"aa100180\">Related Information</a></li><li id=\"nav-aa100180-Credits\"><a class=\"HwLinkNavstack\" data-hwid=\"aa100180\" href=\"#aa100180-Credits\" data-section-href=\"aa100180-Credits\" data-topicId=\"aa100180-Credits\" data-articleId=\"aa100180\" data-document-type=\"Mini\" data-document-href=\"aa100180\">Credits</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Sarah Marshall MD - Family Medicine"
+                },
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                },
+                {
+                    "name": "Kathleen Romito MD - Family Medicine"
+                },
+                {
+                    "name": "Elizabeth T. Russo MD - Internal Medicine"
+                },
+                {
+                    "name": "Kirtly Jones MD - Obstetrics and Gynecology"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: November 9, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Sarah Marshall MD - Family Medicine & Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine & Elizabeth T. Russo MD - Internal Medicine & Kirtly Jones MD - Obstetrics and Gynecology"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Polyhydramnios<a name=\"acn1231\"></a>\r\n\r\n## Condition Basics\r\n\r\n### What is polyhydramnios?\r\n\r\nAmniotic fluid surrounds the fetus during pregnancy. Having too much of this fluid is called polyhydramnios. It means that there's more fluid around your baby than there should be. In some cases, too much amniotic fluid doesn't cause problems. In other cases, it can cause problems, such as preterm labor.\r\n\r\n### What causes it?\r\n\r\nIn many cases, the cause of too much amniotic fluid may not be found.\r\n\r\nBut too much amniotic fluid may happen if:\r\n\r\n- You have diabetes. This includes diabetes that occurs during pregnancy (gestational diabetes).\r\n- The fetus has a development problem. Examples are genetic conditions and birth defects.\r\n- You are pregnant with twins or more.\r\n\r\n### What are the symptoms?\r\n\r\nYou may not have any symptoms of too much amniotic fluid. Often it's found during a routine ultrasound.\r\n\r\nBut some people do have symptoms, which may include:\r\n\r\n- A uterus that is larger than expected for the age of the pregnancy. Your doctor will find this out.\r\n- Shortness of breath.\r\n- Contractions.\r\n\r\n### What problems can happen when you have too much amniotic fluid?\r\n\r\nHaving too much amniotic fluid increases the risk of:\r\n\r\n- Premature breaking (rupture) of the amniotic sac.\r\n- Preterm labor.\r\n- Placental abruption.\r\n- Stillbirth.\r\n\r\n### How is polyhydramnios diagnosed?\r\n\r\nYour doctor can use ultrasound to see if you have too much amniotic fluid. This test is used to measure the pockets of amniotic fluid that surround the baby. If these measurements show too much fluid, more tests may be done to try to find the cause.\r\n\r\n### How is it treated?\r\n\r\nIn most cases, treatment is not needed. Sometimes the problem gets better over time.\r\n\r\nIf it is causing problems for you or your baby, you may need treatment. The type of treatment you get depends on how much amniotic fluid you have. It also depends on how far along you are in your pregnancy and what your symptoms are.\r\n\r\nYour doctor may use a needle to remove extra fluid from the amniotic sac. Or you may be given medicine.\r\n\r\nYour doctor might do extra tests, like an ultrasound of your baby. Your doctor may also monitor your pregnancy more often than usual.\r\n\r\nDepending on your health and the health of your baby, your doctor may recommend having your baby early.<a name=\"aa100180-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Amniocentesis](document/hw1810/hw1813)\r\n- [High-Risk Pregnancy](document/uf9705/uf9706)\r\n- [Multiple Pregnancy: Twins or More](document/hw236272/acn6155)\r\n- [Preterm Labor](document/hw222237/acm8774)<a name=\"aa100180-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: November 9, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nSarah Marshall MD - Family Medicine\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen Romito MD - Family Medicine\\\r\nElizabeth T. Russo MD - Internal Medicine\\\r\nKirtly Jones MD - Obstetrics and Gynecology\r\n\r\nCurrent as of: November 9, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Sarah Marshall MD - Family Medicine & Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine & Elizabeth T. Russo MD - Internal Medicine & Kirtly Jones MD - Obstetrics and Gynecology\r\n\r\n### Topic Contents\r\n\r\n- [Condition Basics](#acn1231)\r\n- [Related Information](#aa100180-RelInfo)\r\n- [Credits](#aa100180-Credits)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Polyhydramnios",
+        "topics": [
+            {
+                "id": "sec-acn1231",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Condition Basics"
+                },
+                "navigable": true,
+                "html": "<a name=\"acn1231\"></a>\r\n\r\n## Condition Basics\r\n\r\n### What is polyhydramnios?\r\n\r\nAmniotic fluid surrounds the fetus during pregnancy. Having too much of this fluid is called polyhydramnios. It means that there's more fluid around your baby than there should be. In some cases, too much amniotic fluid doesn't cause problems. In other cases, it can cause problems, such as preterm labor.\r\n\r\n### What causes it?\r\n\r\nIn many cases, the cause of too much amniotic fluid may not be found.\r\n\r\nBut too much amniotic fluid may happen if:\r\n\r\n- You have diabetes. This includes diabetes that occurs during pregnancy (gestational diabetes).\r\n- The fetus has a development problem. Examples are genetic conditions and birth defects.\r\n- You are pregnant with twins or more.\r\n\r\n### What are the symptoms?\r\n\r\nYou may not have any symptoms of too much amniotic fluid. Often it's found during a routine ultrasound.\r\n\r\nBut some people do have symptoms, which may include:\r\n\r\n- A uterus that is larger than expected for the age of the pregnancy. Your doctor will find this out.\r\n- Shortness of breath.\r\n- Contractions.\r\n\r\n### What problems can happen when you have too much amniotic fluid?\r\n\r\nHaving too much amniotic fluid increases the risk of:\r\n\r\n- Premature breaking (rupture) of the amniotic sac.\r\n- Preterm labor.\r\n- Placental abruption.\r\n- Stillbirth.\r\n\r\n### How is polyhydramnios diagnosed?\r\n\r\nYour doctor can use ultrasound to see if you have too much amniotic fluid. This test is used to measure the pockets of amniotic fluid that surround the baby. If these measurements show too much fluid, more tests may be done to try to find the cause.\r\n\r\n### How is it treated?\r\n\r\nIn most cases, treatment is not needed. Sometimes the problem gets better over time.\r\n\r\nIf it is causing problems for you or your baby, you may need treatment. The type of treatment you get depends on how much amniotic fluid you have. It also depends on how far along you are in your pregnancy and what your symptoms are.\r\n\r\nYour doctor may use a needle to remove extra fluid from the amniotic sac. Or you may be given medicine.\r\n\r\nYour doctor might do extra tests, like an ultrasound of your baby. Your doctor may also monitor your pregnancy more often than usual.\r\n\r\nDepending on your health and the health of your baby, your doctor may recommend having your baby early.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa100180-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa100180-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Amniocentesis](document/hw1810/hw1813)\r\n- [High-Risk Pregnancy](document/uf9705/uf9706)\r\n- [Multiple Pregnancy: Twins or More](document/hw236272/acn6155)\r\n- [Preterm Labor](document/hw222237/acm8774)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa100180-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa100180-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: November 9, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nSarah Marshall MD - Family Medicine\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen Romito MD - Family Medicine\\\r\nElizabeth T. Russo MD - Internal Medicine\\\r\nKirtly Jones MD - Obstetrics and Gynecology",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "hw1810",
+                "title": "Amniocentesis"
+            },
+            {
+                "id": "hw222237",
+                "title": "Preterm Labor"
+            },
+            {
+                "id": "hw236272",
+                "title": "Multiple Pregnancy: Twins or More"
+            },
+            {
+                "id": "uf9705",
+                "title": "High-Risk Pregnancy"
+            }
+        ]
+    }
+}

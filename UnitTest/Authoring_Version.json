@@ -1,0 +1,45 @@
+{
+    "count": 10,
+    "Body": [
+        {
+            "article_id": "aa100180",
+            "authoringVersion": "39"
+        },
+        {
+            "article_id": "aa100355",
+            "authoringVersion": "39"
+        },
+        {
+            "article_id": "aa10253",
+            "authoringVersion": "9"
+        },
+        {
+            "article_id": "aa103080",
+            "authoringVersion": "12"
+        },
+        {
+            "article_id": "aa103823",
+            "authoringVersion": "8"
+        },
+        {
+            "article_id": "aa104339spec",
+            "authoringVersion": "40"
+        },
+        {
+            "article_id": "aa104378",
+            "authoringVersion": "38"
+        },
+        {
+            "article_id": "aa104487spec",
+            "authoringVersion": "36"
+        },
+        {
+            "article_id": "aa104596spec",
+            "authoringVersion": "39"
+        },
+        {
+            "article_id": "aa104729spec",
+            "authoringVersion": "37"
+        }
+    ]
+}

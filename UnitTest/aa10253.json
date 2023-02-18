@@ -1,0 +1,102 @@
+{
+    "id": "aa10253",
+    "title": "Ambulatory Electrocardiogram (EKG)",
+    "version": "13.6",
+    "type": "medicaltest",
+    "docType": "medicaltest",
+    "article": {
+        "title": "Ambulatory Electrocardiogram (EKG)",
+        "abstract": "An ambulatory electrocardiogram (EKG or ECG) records the electrical activity of your heart while you do your usual activities. Ambulatory means that you are able to walk during the test. This type of monitoring may also be called ambulatory EKG, Holter monitoring, 24-hour EKG, or cardiac event monitoring. Many heart...",
+        "extras": [
+            {
+                "html": "<a name=\"aa10256\"></a>\r\n\r\n## Test Overview\r\n\r\nAn ambulatory electrocardiogram (EKG or ECG) records the electrical activity of your heart while you do your usual activities. Ambulatory means that you are able to walk during the test. This type of monitoring may also be called ambulatory EKG, Holter monitoring, 24-hour EKG, or cardiac event monitoring.\r\n\r\nMany heart problems are noticeable only during certain activities. These include exercise, eating, sex, stress, bowel movements, and even sleeping. An ambulatory electrocardiogram is more likely to find abnormal heartbeats that occur during these activities.\r\n\r\nMany people have irregular heartbeats ([arrhythmias](document/sti150629/sti150629-sec)) from time to time. What this means depends on the type of pattern they produce, how often they occur, how long they last, and whether they occur at the same time you have symptoms. Because arrhythmias can come and go, it may be hard to record one while you are in the doctor's office.\r\n\r\nThere are several different types of ambulatory monitors. Your doctor will choose the type that works best for you and is most likely to help diagnose your heart problem."
+            },
+            {
+                "html": "<a name=\"aa10268\"></a>\r\n\r\n## Why It Is Done\r\n\r\nAmbulatory EKG monitoring is done to:\r\n\r\n- Look for and record irregular heartbeats that come and go or happen during certain activities.\r\n- Find out what is causing chest pain or pressure, dizziness, or fainting. These may be symptoms of heart problems.\r\n- Check to see if treatment for an irregular heartbeat is working."
+            },
+            {
+                "html": "<a name=\"aa10274\"></a>\r\n\r\n## How To Prepare\r\n\r\nHow you prepare may depend on the type of monitor you are getting.\r\n\r\nBe sure to tell your doctor about all the medicines you take, even over-the-counter ones. Many medicines can change the results of this test.\r\n\r\nIf you're going to have electrode pads or a patch, take a shower or bath before the patch or pads are put on. You may not be able to get the pads or patch wet during the test. Your doctor will instruct you on how to wear the electrodes. Wear a loose blouse or shirt.\r\n\r\nIf you're getting a monitor put under your skin, you will get instructions on how to prepare for the procedure."
+            },
+            {
+                "html": "<a name=\"aa10277\"></a>\r\n\r\n## How It Is Done\r\n\r\nYour doctor will choose the type of heart monitor and explain the details of how to use it. If you have to do anything to send your heart data, your doctor will show you how.\r\n\r\n### What you do during the test\r\n\r\nYour doctor may ask you to keep a diary of all of your activities and symptoms while you wear the monitor. You will write down the type of activity you were doing and the time your symptoms started. For example, write down the exact times when you:\r\n\r\n- Exercise or climb stairs.\r\n- Eat.\r\n- Urinate or have a bowel movement.\r\n- Have sex.\r\n- Sleep.\r\n- Get upset.\r\n- Take medicine.\r\n\r\nIf you have any symptoms of heart problems, such as dizziness, fainting, chest pain, or abnormal heartbeats, push the event-marker button on the recorder to mark it (if you have the type that allows you to). Then write down the exact time and how long the symptom lasts. For example, you might write: \"12:30 p.m. Ate lunch. 1:00 p.m. Argument with boss, had chest tightness for several minutes.\"\r\n\r\nIf one of the electrodes or lead wires comes loose, a light on the monitor will flash. Press on the center of each electrode to see if you can restore the contact. Call your doctor if one of the electrodes comes off and you can't get it to stay on.\r\n\r\nYour doctor will tell you if you need to stay away from strong electromagnetic fields while wearing a monitor. This may include magnets, microwave ovens, and electric blankets. Signals from these types of electronic equipment can sometimes affect the recording.\r\n\r\n### What you and your doctor do after the test\r\n\r\nAt the end of the recording period, your doctor will give you instructions. If you had electrode pads or a patch, you may go to the doctor's office or hospital to have them removed. Or you may be able to remove them yourself. Your doctor will let you know how to return the monitor.\r\n\r\nYour doctor will review the data from your monitor. The doctor will also look at your records of activities and symptoms and the times they occurred. Your doctor will compare the timing of your activities and symptoms with the recorded heart pattern."
+            },
+            {
+                "html": "<a name=\"aa10295\"></a>\r\n\r\n## How It Feels\r\n\r\nIf you have electrodes or pads on your skin, those places may itch slightly during the test. The skin on your chest may look or feel irritated when the electrodes are removed.\r\n\r\nHeart monitors are typically very lightweight. So carrying or wearing them is usually not uncomfortable.\r\n\r\nFor an implantable heart monitor, you will get medicine to numb the area of your chest where the monitor will be put in. You will be awake when the doctor makes a small cut and places the monitor under the skin. You shouldn't feel any pain."
+            },
+            {
+                "html": "<a name=\"aa10297\"></a>\r\n\r\n## Risks\r\n\r\nThere is no risk from ambulatory EKG monitoring. The electrodes placed on your skin detect only the electrical signals from your heart. No electricity is sent through your body. So there is no chance of getting an electric shock."
+            },
+            {
+                "html": "<a name=\"aa10299\"></a>\r\n\r\n## Results\r\n\r\nResults of ambulatory EKG monitoring usually are looked at by a [cardiologist](document/ps1905/ps1905-sec) or [cardiac electrophysiologist](document/ps2184/ps2184-sec). The results are most often available in a few days.\r\n\r\nAmbulatory electrocardiogram (EKG or ECG)\r\n\r\nNormal:\r\n\r\nNo abnormal heart rhythms are found. Your heart rate may go up when you are active and go down when you sleep. It can be normal to have an early heartbeat now and then. This may also be recorded with the heart rhythm.\r\n\r\nAbnormal:\r\n\r\nMany kinds of abnormal heartbeats can be found by ambulatory monitoring.\r\n\r\n- Abnormal slow, fast, or irregular heart rhythms are found. Alternating slow and fast rhythms may also occur now and then.\r\n- A slow heart rhythm in a person with a [pacemaker](document/stp1189/stp1189-sec) may mean that the pacemaker is not working as it should.\r\n- Certain abnormal patterns may mean that the heart muscle is not getting enough oxygen. This is called ischemia. It may happen if the arteries feeding the heart are too narrow.\r\n\r\nThe results of this test are compared with your medical history, symptoms, and other test results. Your doctor will also compare the results with your diary of activities and symptoms. You may need to have the test again if the results aren't clear."
+            },
+            {
+                "html": "<a name=\"aa10253-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Electrocardiogram (EKG)](document/hw213248/tp17356)\r\n- [Medical Tests: Questions to Ask the Doctor](document/zm2257/zm2257-sec)"
+            },
+            {
+                "html": "<a name=\"aa10253-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 7, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nRakesh K. Pai MD, FACC - Cardiology, Electrophysiology\\\r\nE. Gregory Thompson MD - Internal Medicine\\\r\nMartin J. Gabica MD - Family Medicine\\\r\nElizabeth T. Russo MD - Internal Medicine\\\r\nAdam Husney MD - Family Medicine\\\r\nGeorge Philippides MD - Cardiology"
+            }
+        ]
+    },
+    "extras": [
+        {
+            "header": "Transcript",
+            "content": ""
+        },
+        {
+            "header": "Legal",
+            "content": [
+                {
+                    "content": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)"
+                },
+                {
+                    "content": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n\u00a9 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated."
+                },
+                {
+                    "header": "disclaimer",
+                    "content": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+                },
+                {
+                    "header": "Terms of use",
+                    "content": "https://www.healthwise.org/specialpages/legal/terms.aspx"
+                },
+                {
+                    "header": "Privacy policy",
+                    "content": "https://www.healthwise.org/specialpages/legal/privacy.aspx"
+                },
+                {
+                    "header": "More information",
+                    "content": "https://www.healthwise.org"
+                },
+                {
+                    "content": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/)."
+                },
+                {
+                    "content": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+                }
+            ]
+        },
+        {
+            "header": "Credits",
+            "content": [
+                {
+                    "header": "Author",
+                    "content": "Healthwise Staff"
+                },
+                {
+                    "header": "Primary Reviewers",
+                    "content": [
+                        "Rakesh K. Pai MD, FACC - Cardiology, Electrophysiology",
+                        "E. Gregory Thompson MD - Internal Medicine",
+                        "Martin J. Gabica MD - Family Medicine",
+                        "Elizabeth T. Russo MD - Internal Medicine",
+                        "Adam Husney MD - Family Medicine",
+                        "George Philippides MD - Cardiology"
+                    ]
+                },
+                {
+                    "content": "Current as of: September 7, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Rakesh K. Pai MD, FACC - Cardiology, Electrophysiology & E. Gregory Thompson MD - Internal Medicine & Martin J. Gabica MD - Family Medicine & Elizabeth T. Russo MD - Internal Medicine & Adam Husney MD - Family Medicine & George Philippides MD - Cardiology"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa104487spec/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa104487spec/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa104487spec/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa104487spec/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa104487spec/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa104487spec",
+        "version": "13.6",
+        "hash": "-980126129",
+        "certifiedDate": "2022-09-08",
+        "lang": "en-us",
+        "docType": "otherdetail",
+        "type": "otherdetail",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa104487spec\";\n          org.healthwise.document.section = \"\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Healing Touch\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"OtherDetail\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Healing Touch",
+            "englishConsumer": "Healing Touch"
+        },
+        "abstract": {
+            "consumer": "Like other complementary medicine therapies, healing touch starts with the idea that people are naturally healthy. The way people live and think may disturb their natural energy, and they may become ill. The aim of healing touch is to focus (or channel) healing energy to restore natural health. Practitioners of healing...",
+            "clinical": "Like other complementary medicine therapies, healing touch starts with the idea that people are naturally healthy. The way people live and think may disturb their natural energy, and they may become ill. The aim of healing touch is to focus (or channel) healing energy to restore natural health. Practitioners of healing..."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-acl6879\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104487spec\" href=\"#acl6879\" data-section-href=\"acl6879\" data-topicId=\"acl6879\" data-articleId=\"aa104487spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104487spec\">Treatment Overview</a></li><li id=\"nav-acl6391\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104487spec\" href=\"#acl6391\" data-section-href=\"acl6391\" data-topicId=\"acl6391\" data-articleId=\"aa104487spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104487spec\">How Well It Works</a></li><li id=\"nav-acl6880\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104487spec\" href=\"#acl6880\" data-section-href=\"acl6880\" data-topicId=\"acl6880\" data-articleId=\"aa104487spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104487spec\">Risks</a></li><li id=\"nav-aa104487spec-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104487spec\" href=\"#aa104487spec-RelInfo\" data-section-href=\"aa104487spec-RelInfo\" data-topicId=\"aa104487spec-RelInfo\" data-articleId=\"aa104487spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104487spec\">Related Information</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                },
+                {
+                    "name": "Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Healing Touch<a name=\"acl6879\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld037092_kb.jpg)\r\n\r\nLike other complementary medicine therapies, healing touch starts with the idea that people are naturally healthy. The way people live and think may disturb their natural energy, and they may become ill. The aim of healing touch is to focus (or channel) healing energy to restore natural health.\r\n\r\nPractitioners of healing touch believe they can use their hands to change a person's energy flow and restore health. During a session, the practitioner moves his or her hands several inches above the person's body, often making sweeping hand motions. The practitioner also may place his or her hands lightly on specific parts of the person's body.<a name=\"acl6391\"></a><a name=\"acl6391\"></a>\r\n\r\n## How Well It Works\r\n\r\nSome research studies have shown that, like yoga and meditation, healing touch reduces anxiety and stress.\r\n\r\nResearch studies have been done on the effects of healing touch, but there are not consistent results. The practice is difficult to study using scientific methods.<a name=\"acl6880\"></a><a name=\"acl6880\"></a>\r\n\r\n## Risks\r\n\r\nYou can safely use healing touch along with conventional medical treatments.\r\n\r\nTalk with your doctor about any complementary health practice that you would like to try or are already using. Your doctor can help you manage your health better if he or she knows about all of your health practices.<a name=\"aa104487spec-RelInfo\"></a><a name=\"aa104487spec-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Cancer Pain](document/tv7310/tv7311)\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Stress Management](document/rlxsk/hw153409)\r\n- [Therapeutic Touch](document/ag2078spec/acl6847)<a name=\"aa104487spec-Credits\"></a><a name=\"aa104487spec-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine\r\n\r\n### Topic Contents\r\n\r\n- [Treatment Overview](#acl6879)\r\n- [How Well It Works](#acl6391)\r\n- [Risks](#acl6880)\r\n- [Related Information](#aa104487spec-RelInfo)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Healing Touch\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine",
+        "topics": [
+            {
+                "id": "sec-acl6879",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Treatment Overview"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6879\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld037092_kb.jpg)\r\n\r\nLike other complementary medicine therapies, healing touch starts with the idea that people are naturally healthy. The way people live and think may disturb their natural energy, and they may become ill. The aim of healing touch is to focus (or channel) healing energy to restore natural health.\r\n\r\nPractitioners of healing touch believe they can use their hands to change a person's energy flow and restore health. During a session, the practitioner moves his or her hands several inches above the person's body, often making sweeping hand motions. The practitioner also may place his or her hands lightly on specific parts of the person's body.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl6391",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "How Well It Works"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6391\"></a><a name=\"acl6391\"> </a>\r\n\r\n## How Well It Works\r\n\r\nSome research studies have shown that, like yoga and meditation, healing touch reduces anxiety and stress.\r\n\r\nResearch studies have been done on the effects of healing touch, but there are not consistent results. The practice is difficult to study using scientific methods.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl6880",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Risks"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6880\"></a><a name=\"acl6880\"> </a>\r\n\r\n## Risks\r\n\r\nYou can safely use healing touch along with conventional medical treatments.\r\n\r\nTalk with your doctor about any complementary health practice that you would like to try or are already using. Your doctor can help you manage your health better if he or she knows about all of your health practices.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104487spec-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104487spec-RelInfo\"></a><a name=\"aa104487spec-RelInfo\"> </a>\r\n\r\n## Related Information\r\n\r\n- [Cancer Pain](document/tv7310/tv7311)\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Stress Management](document/rlxsk/hw153409)\r\n- [Therapeutic Touch](document/ag2078spec/acl6847)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104487spec-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwCreditsWithoutNavstack HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104487spec-Credits\"></a><a name=\"aa104487spec-Credits\"> </a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen M. Fairfield MD, MPH, DrPH - Internal Medicine",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "cpain",
+                "title": "Chronic Pain"
+            },
+            {
+                "id": "ag2078spec",
+                "title": "Therapeutic Touch"
+            },
+            {
+                "id": "tv7310",
+                "title": "Cancer Pain"
+            },
+            {
+                "id": "rlxsk",
+                "title": "Stress Management"
+            },
+            {
+                "id": "aa63785",
+                "title": "Complementary Medicine"
+            }
+        ]
+    }
+}

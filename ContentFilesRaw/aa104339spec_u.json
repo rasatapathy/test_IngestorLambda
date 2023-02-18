@@ -1,0 +1,185 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa104339spec/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa104339spec/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa104339spec/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa104339spec/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa104339spec/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa104339spec",
+        "version": "13.6",
+        "hash": "345376946",
+        "certifiedDate": "2022-09-08",
+        "lang": "en-us",
+        "docType": "otherdetail",
+        "type": "otherdetail",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa104339spec\";\n          org.healthwise.document.section = \"\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Bodywork\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"OtherDetail\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Bodywork",
+            "englishConsumer": "Bodywork"
+        },
+        "abstract": {
+            "consumer": "Discusses complementary medicine of bodywork and manual therapy used for relaxation and pain relief. Includes massage, Alexander technique, Feldenkrais method, Trager approach, Rolfing, deep tissue massage, and dance. Covers safety.",
+            "clinical": "Discusses complementary medicine of bodywork and manual therapy used for relaxation and pain relief. Includes massage, Alexander technique, Feldenkrais method, Trager approach, Rolfing, deep tissue massage, and dance. Covers safety."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-acl6972\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104339spec\" href=\"#acl6972\" data-section-href=\"acl6972\" data-topicId=\"acl6972\" data-articleId=\"aa104339spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104339spec\">Treatment Overview</a></li><li id=\"nav-acl7031\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104339spec\" href=\"#acl7031\" data-section-href=\"acl7031\" data-topicId=\"acl7031\" data-articleId=\"aa104339spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104339spec\">Why It Is Used</a></li><li id=\"nav-acl7032\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104339spec\" href=\"#acl7032\" data-section-href=\"acl7032\" data-topicId=\"acl7032\" data-articleId=\"aa104339spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104339spec\">Risks</a></li><li id=\"nav-aa104339spec-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104339spec\" href=\"#aa104339spec-RelInfo\" data-section-href=\"aa104339spec-RelInfo\" data-topicId=\"aa104339spec-RelInfo\" data-articleId=\"aa104339spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104339spec\">Related Information</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                },
+                {
+                    "name": "Kathleen Romito MD - Family Medicine"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Bodywork<a name=\"acl6972\"></a>\r\n\r\n## Treatment Overview\r\n\r\nBodywork uses manipulation therapies. The therapies are used to relax you and relieve pain. The goal is to realign and reposition the body. This may allow the body to move in a natural, graceful way.\r\n\r\nThe idea behind bodywork is that people learn or, through injury or stress, are forced into unnatural ways of moving or holding their body. This can cause discomfort and may contribute to health problems. Bodywork, along with finding any causes of unnatural movement and posture, is thought to reduce stress and ease pain.\r\n\r\n### Types of bodywork\r\n\r\nSome of the most common forms of bodywork are:\r\n\r\nThe Alexander technique.\r\n\r\nThis technique focuses on aligning the head, neck, and trunk. It stresses improving health by helping you become more aware of proper posture.\r\n\r\nThe Feldenkrais method.\r\n\r\nThis is a gentle form of bodywork that increases flexibility and coordination. Feldenkrais exercises are intended to help you become more aware of body movement and develop new patterns of movement.\r\n\r\nThe Trager approach.\r\n\r\nThe Trager approach is used to help relearn natural movements and exercises. This can help the body function better. You are taught gentle, rhythmic motions to improve flexibility and promote relaxation. You learn dance-like exercises to become more aware of how your body moves.\r\n\r\nDeep tissue massage.\r\n\r\nThe goal of deep tissue massage is to treat long-term tension in deep muscles of the body. Deep tissue massage is thought to relieve pain and increase flexibility.\r\n\r\nRolfing.\r\n\r\nRolfing is a form of deep tissue massage. It is used to realign the tissues that cover and connect all muscles and body organs. Bringing the body back into proper alignment is thought to reduce pain, improve flexibility and energy, and reduce muscle tension.\r\n\r\nDance/movement therapy.\r\n\r\nThis type of therapy is like many of the types of bodywork described here. But it adds elements of creative and expressive art.<a name=\"acl7031\"></a><a name=\"acl7031\"></a>\r\n\r\n## Why It Is Used\r\n\r\nPeople may use bodywork to help relax and to relieve stress. It may also be used to reduce pain from muscle and joint problems. These problems include arthritis and fibromyalgia. How effective bodywork is has not been proved.<a name=\"acl7032\"></a><a name=\"acl7032\"></a>\r\n\r\n## Risks\r\n\r\nBodywork can be safe when your health professional is qualified and experienced. Many states license those who do bodywork. Your doctor or local hospital may be able to help you find a practitioner who is qualified.\r\n\r\nTalk with your doctor before you start any bodywork. You can then choose the best form of bodywork for your health problem.<a name=\"aa104339spec-RelInfo\"></a><a name=\"aa104339spec-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Stress Management](document/rlxsk/hw153409)<a name=\"aa104339spec-Credits\"></a><a name=\"aa104339spec-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine\r\n\r\n### Topic Contents\r\n\r\n- [Treatment Overview](#acl6972)\r\n- [Why It Is Used](#acl7031)\r\n- [Risks](#acl7032)\r\n- [Related Information](#aa104339spec-RelInfo)\r\n\r\n1. [![](https://content.healthwise.net/resources/13.6/en-us/media/thumbnails/abn2531.jpg)Back Pain: Acupuncture and Massage](document/abn2531)\r\n2. [![](https://content.healthwise.net/resources/13.6/en-us/media/thumbnails/abo3435.jpg)Back Pain: Self-Massage With a Tennis Ball](document/abo3435)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Bodywork\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine",
+        "topics": [
+            {
+                "id": "sec-acl6972",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Treatment Overview"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6972\"></a>\r\n\r\n## Treatment Overview\r\n\r\nBodywork uses manipulation therapies. The therapies are used to relax you and relieve pain. The goal is to realign and reposition the body. This may allow the body to move in a natural, graceful way.\r\n\r\nThe idea behind bodywork is that people learn or, through injury or stress, are forced into unnatural ways of moving or holding their body. This can cause discomfort and may contribute to health problems. Bodywork, along with finding any causes of unnatural movement and posture, is thought to reduce stress and ease pain.\r\n\r\n### Types of bodywork\r\n\r\nSome of the most common forms of bodywork are:\r\n\r\nThe Alexander technique.\r\n\r\nThis technique focuses on aligning the head, neck, and trunk. It stresses improving health by helping you become more aware of proper posture.\r\n\r\nThe Feldenkrais method.\r\n\r\nThis is a gentle form of bodywork that increases flexibility and coordination. Feldenkrais exercises are intended to help you become more aware of body movement and develop new patterns of movement.\r\n\r\nThe Trager approach.\r\n\r\nThe Trager approach is used to help relearn natural movements and exercises. This can help the body function better. You are taught gentle, rhythmic motions to improve flexibility and promote relaxation. You learn dance-like exercises to become more aware of how your body moves.\r\n\r\nDeep tissue massage.\r\n\r\nThe goal of deep tissue massage is to treat long-term tension in deep muscles of the body. Deep tissue massage is thought to relieve pain and increase flexibility.\r\n\r\nRolfing.\r\n\r\nRolfing is a form of deep tissue massage. It is used to realign the tissues that cover and connect all muscles and body organs. Bringing the body back into proper alignment is thought to reduce pain, improve flexibility and energy, and reduce muscle tension.\r\n\r\nDance/movement therapy.\r\n\r\nThis type of therapy is like many of the types of bodywork described here. But it adds elements of creative and expressive art.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl7031",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Why It Is Used"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7031\"></a><a name=\"acl7031\"> </a>\r\n\r\n## Why It Is Used\r\n\r\nPeople may use bodywork to help relax and to relieve stress. It may also be used to reduce pain from muscle and joint problems. These problems include arthritis and fibromyalgia. How effective bodywork is has not been proved.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl7032",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Risks"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7032\"></a><a name=\"acl7032\"> </a>\r\n\r\n## Risks\r\n\r\nBodywork can be safe when your health professional is qualified and experienced. Many states license those who do bodywork. Your doctor or local hospital may be able to help you find a practitioner who is qualified.\r\n\r\nTalk with your doctor before you start any bodywork. You can then choose the best form of bodywork for your health problem.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104339spec-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104339spec-RelInfo\"></a><a name=\"aa104339spec-RelInfo\"> </a>\r\n\r\n## Related Information\r\n\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Stress Management](document/rlxsk/hw153409)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104339spec-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwCreditsWithoutNavstack HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104339spec-Credits\"></a><a name=\"aa104339spec-Credits\"> </a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen Romito MD - Family Medicine",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "rlxsk",
+                "title": "Stress Management"
+            },
+            {
+                "id": "aa63785",
+                "title": "Complementary Medicine"
+            }
+        ],
+        "media": {
+            "html": "<div id=\"HwMediaItems\"><ol class=\"HwMediaItemList\"><li id=\"HwMediaItem-abn2531\" class=\"HwMediaItem HwMediaItemTopicImage\"><a class=\"HwMediaItemLink\" data-hwid=\"abn2531\" href=\"document/abn2531\" data-document-type=\"MultiMedia\" data-document-href=\"abn2531\" data-name-href=\"Back Pain: Acupuncture and Massage\" data-rel=\"MultiMedia video 00:02:36\" data-articleId=\"abn2531\" rel=\"MultiMedia video 00:02:36\"><img class=\"HwMediaImage\" src=\"https://content.healthwise.net/resources/13.6/en-us/media/thumbnails/abn2531.jpg\" width=\"190\" height=\"107\" alt=\"\" data-resource-path=\"media/thumbnails/abn2531.jpg\" /><span class=\"HwMediaTitle\">Back Pain: Acupuncture and Massage</span></a></li><li id=\"HwMediaItem-abo3435\" class=\"HwMediaItem HwMediaItemTopicImage\"><a class=\"HwMediaItemLink\" data-hwid=\"abo3435\" href=\"document/abo3435\" data-document-type=\"MultiMedia\" data-document-href=\"abo3435\" data-name-href=\"Back Pain: Self-Massage With a Tennis Ball\" data-rel=\"MultiMedia video 00:01:27\" data-articleId=\"abo3435\" rel=\"MultiMedia video 00:01:27\"><img class=\"HwMediaImage\" src=\"https://content.healthwise.net/resources/13.6/en-us/media/thumbnails/abo3435.jpg\" width=\"190\" height=\"107\" alt=\"\" data-resource-path=\"media/thumbnails/abo3435.jpg\" /><span class=\"HwMediaTitle\">Back Pain: Self-Massage With a Tennis Ball</span></a></li></ol></div>"
+        }
+    }
+}

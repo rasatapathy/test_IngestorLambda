@@ -1,0 +1,183 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa104596spec/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa104596spec/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa104596spec/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa104596spec/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa104596spec/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa104596spec",
+        "version": "13.6",
+        "hash": "632823769",
+        "certifiedDate": "2022-09-08",
+        "lang": "en-us",
+        "docType": "otherdetail",
+        "type": "otherdetail",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa104596spec\";\n          org.healthwise.document.section = \"\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Dietary Supplements (Herbal Medicines and Natural Products)\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"OtherDetail\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Dietary Supplements (Herbal Medicines and Natural Products)",
+            "englishConsumer": "Dietary Supplements (Herbal Medicines and Natural Products)"
+        },
+        "abstract": {
+            "consumer": "Explains what dietary supplements are. Covers uses including preventing illness, reducing fever, curing infection, easing pain, and healing wounds. Covers safety issues like side effects and interaction with other medicines or supplements being taken.",
+            "clinical": "Explains what dietary supplements are. Covers uses including preventing illness, reducing fever, curing infection, easing pain, and healing wounds. Covers safety issues like side effects and interaction with other medicines or supplements being taken."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-tp21263\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104596spec\" href=\"#tp21263\" data-section-href=\"tp21263\" data-topicId=\"tp21263\" data-articleId=\"aa104596spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104596spec\">Treatment Overview</a></li><li id=\"nav-acl7321\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104596spec\" href=\"#acl7321\" data-section-href=\"acl7321\" data-topicId=\"acl7321\" data-articleId=\"aa104596spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104596spec\">Why It Is Used</a></li><li id=\"nav-acl7647\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104596spec\" href=\"#acl7647\" data-section-href=\"acl7647\" data-topicId=\"acl7647\" data-articleId=\"aa104596spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104596spec\">Risks</a></li><li id=\"nav-aa104596spec-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104596spec\" href=\"#aa104596spec-RelInfo\" data-section-href=\"aa104596spec-RelInfo\" data-topicId=\"aa104596spec-RelInfo\" data-articleId=\"aa104596spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104596spec\">Related Information</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Dietary Supplements (Herbal Medicines and Natural Products)<a name=\"tp21263\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld142584_kb.jpg)\r\n\r\nIn the United States, dietary supplements are substances you eat or drink. They can be vitamins, minerals, herbs or other plants, amino acids (the individual building blocks of protein), or parts of these substances. They can be in pill, capsule, tablet, or liquid form. They supplement (add to) the diet and should not be considered a substitute for food.\r\n\r\nDietary supplements are widely available in the United States in health food stores, grocery stores, pharmacies, on the Internet, and by mail. People commonly take them for health-related reasons. Common dietary supplements include vitamins and minerals (such as vitamin C or a multivitamin), botanicals (herbs and plant products, such as St. John's wort), and substances that come from a natural source (such as omega-3 fatty acids).\r\n\r\nMakers of dietary supplements cannot legally say that dietary supplements can diagnose, cure, treat, or prevent disease. But they can say that they contribute to health maintenance and well-being.\r\n\r\nPeople have used the active ingredients in dietary supplements for thousands of years to help health and to treat illness. Sometimes those supplements are the basis for some of today's common medicines. For example, people have used willow bark tea for centuries to relieve fever. Pharmaceutical companies eventually identified the chemical in willow bark that relieved fever and used that knowledge to produce aspirin.\r\n\r\nThe U.S. Food and Drug Administration (FDA) does not regulate dietary supplements in the same way that it regulates medicine. A dietary supplement can be sold without research on how well it works.<a name=\"acl7321\"></a><a name=\"acl7321\"></a>\r\n\r\n## Why It Is Used\r\n\r\nPeople use dietary supplements for many health conditions.\r\n\r\nHistorically, people have used herbal medicines to prevent illness, cure infection, relieve fever, and heal wounds. Herbal medicines have also been used for constipation, to ease pain, and to act as relaxants or stimulants. Research on some herbs and plant products has shown that they may have some of the same effects that conventional medicines do, while others may have no effect or may be harmful.\r\n\r\nResearchers have found that some supplements do not help prevent certain health problems. For example, beta-carotene and vitamin E do not lower risk of heart disease or heart attack.<a name=\"acl7647\"></a><a name=\"acl7647\"></a>\r\n\r\n## Risks\r\n\r\nNot all herbs and supplements are safe. If you aren't sure about the safety of a supplement or herb, talk to your doctor, pharmacist, or dietitian.\r\n\r\nAlways tell your doctor if you are using a dietary supplement or if you're thinking about combining a supplement with your standard medical treatment. It may not be safe to stop your medical treatment and rely only on a supplement. This is even more important if you are pregnant or breastfeeding.\r\n\r\nWhen using dietary supplements, keep these things in mind:\r\n\r\n- They may cause side effects or trigger allergic reactions. They can also interact with prescription and nonprescription medicines or other supplements you might be taking. A side effect or interaction may make other health conditions worse.\r\n- The way supplements are made may not be standardized. Because of this, how well they work or any side effects they cause may differ among brands or even within different lots of the same brand. The form of supplement that you buy in a store may not be the same as the form used in research.\r\n- Other than for vitamins and minerals, the long-term effects of most supplements aren't known.<a name=\"aa104596spec-RelInfo\"></a><a name=\"aa104596spec-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Choosing a Vitamin and Mineral Supplement](document/ud3713/ud3714)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Dealing With Medicine Side Effects and Interactions](document/ug5135/acn7899)<a name=\"aa104596spec-Credits\"></a><a name=\"aa104596spec-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine\r\n\r\n### Topic Contents\r\n\r\n- [Treatment Overview](#tp21263)\r\n- [Why It Is Used](#acl7321)\r\n- [Risks](#acl7647)\r\n- [Related Information](#aa104596spec-RelInfo)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Dietary Supplements (Herbal Medicines and Natural Products)\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine",
+        "topics": [
+            {
+                "id": "sec-tp21263",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Treatment Overview"
+                },
+                "navigable": true,
+                "html": "<a name=\"tp21263\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld142584_kb.jpg)\r\n\r\nIn the United States, dietary supplements are substances you eat or drink. They can be vitamins, minerals, herbs or other plants, amino acids (the individual building blocks of protein), or parts of these substances. They can be in pill, capsule, tablet, or liquid form. They supplement (add to) the diet and should not be considered a substitute for food.\r\n\r\nDietary supplements are widely available in the United States in health food stores, grocery stores, pharmacies, on the Internet, and by mail. People commonly take them for health-related reasons. Common dietary supplements include vitamins and minerals (such as vitamin C or a multivitamin), botanicals (herbs and plant products, such as St. John's wort), and substances that come from a natural source (such as omega-3 fatty acids).\r\n\r\nMakers of dietary supplements cannot legally say that dietary supplements can diagnose, cure, treat, or prevent disease. But they can say that they contribute to health maintenance and well-being.\r\n\r\nPeople have used the active ingredients in dietary supplements for thousands of years to help health and to treat illness. Sometimes those supplements are the basis for some of today's common medicines. For example, people have used willow bark tea for centuries to relieve fever. Pharmaceutical companies eventually identified the chemical in willow bark that relieved fever and used that knowledge to produce aspirin.\r\n\r\nThe U.S. Food and Drug Administration (FDA) does not regulate dietary supplements in the same way that it regulates medicine. A dietary supplement can be sold without research on how well it works.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl7321",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Why It Is Used"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7321\"></a><a name=\"acl7321\"> </a>\r\n\r\n## Why It Is Used\r\n\r\nPeople use dietary supplements for many health conditions.\r\n\r\nHistorically, people have used herbal medicines to prevent illness, cure infection, relieve fever, and heal wounds. Herbal medicines have also been used for constipation, to ease pain, and to act as relaxants or stimulants. Research on some herbs and plant products has shown that they may have some of the same effects that conventional medicines do, while others may have no effect or may be harmful.\r\n\r\nResearchers have found that some supplements do not help prevent certain health problems. For example, beta-carotene and vitamin E do not lower risk of heart disease or heart attack.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl7647",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Risks"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7647\"></a><a name=\"acl7647\"> </a>\r\n\r\n## Risks\r\n\r\nNot all herbs and supplements are safe. If you aren't sure about the safety of a supplement or herb, talk to your doctor, pharmacist, or dietitian.\r\n\r\nAlways tell your doctor if you are using a dietary supplement or if you're thinking about combining a supplement with your standard medical treatment. It may not be safe to stop your medical treatment and rely only on a supplement. This is even more important if you are pregnant or breastfeeding.\r\n\r\nWhen using dietary supplements, keep these things in mind:\r\n\r\n- They may cause side effects or trigger allergic reactions. They can also interact with prescription and nonprescription medicines or other supplements you might be taking. A side effect or interaction may make other health conditions worse.\r\n- The way supplements are made may not be standardized. Because of this, how well they work or any side effects they cause may differ among brands or even within different lots of the same brand. The form of supplement that you buy in a store may not be the same as the form used in research.\r\n- Other than for vitamins and minerals, the long-term effects of most supplements aren't known.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104596spec-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104596spec-RelInfo\"></a><a name=\"aa104596spec-RelInfo\"> </a>\r\n\r\n## Related Information\r\n\r\n- [Choosing a Vitamin and Mineral Supplement](document/ud3713/ud3714)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Dealing With Medicine Side Effects and Interactions](document/ug5135/acn7899)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104596spec-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwCreditsWithoutNavstack HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104596spec-Credits\"></a><a name=\"aa104596spec-Credits\"> </a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "ud3713",
+                "title": "Choosing a Vitamin and Mineral Supplement"
+            },
+            {
+                "id": "aa63785",
+                "title": "Complementary Medicine"
+            },
+            {
+                "id": "ug5135",
+                "title": "Dealing With Medicine Side Effects and Interactions"
+            }
+        ]
+    }
+}

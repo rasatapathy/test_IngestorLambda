@@ -1,0 +1,160 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa104378/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa104378/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa104378/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa104378/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa104378/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa104378",
+        "version": "13.6",
+        "hash": "-818623219",
+        "certifiedDate": "2022-09-08",
+        "lang": "en-us",
+        "docType": "focus",
+        "type": "focus",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa104378\";\n          org.healthwise.document.section = \"acl7052\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Chiropractic\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"Focus\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Chiropractic",
+            "englishConsumer": "Chiropractic"
+        },
+        "abstract": {
+            "consumer": "Chiropractic is an approach to health care that tries to relieve pain through spinal manipulation. It is most often used for back or neck pain, and sometimes it is used for headaches or for pain in the arms or legs. Spinal manipulation involves working on the head, shoulders, neck, back, or hips to help relieve pain. It...",
+            "clinical": "Chiropractic is an approach to health care that tries to relieve pain through spinal manipulation. It is most often used for back or neck pain, and sometimes it is used for headaches or for pain in the arms or legs. Spinal manipulation involves working on the head, shoulders, neck, back, or hips to help relieve pain. It..."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-acl7052\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104378\" href=\"#acl7052\" data-section-href=\"acl7052\" data-topicId=\"acl7052\" data-articleId=\"aa104378\" data-document-type=\"Focus\" data-document-href=\"aa104378\">Treatment Overview</a></li><li id=\"nav-aa104378-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104378\" href=\"#aa104378-RelInfo\" data-section-href=\"aa104378-RelInfo\" data-topicId=\"aa104378-RelInfo\" data-articleId=\"aa104378\" data-document-type=\"Focus\" data-document-href=\"aa104378\">Related Information</a></li><li id=\"nav-aa104378-Credits\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104378\" href=\"#aa104378-Credits\" data-section-href=\"aa104378-Credits\" data-topicId=\"aa104378-Credits\" data-articleId=\"aa104378\" data-document-type=\"Focus\" data-document-href=\"aa104378\">Credits</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                },
+                {
+                    "name": "Kathleen Romito MD - Family Medicine"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Chiropractic<a name=\"acl7052\"></a>\r\n\r\n## Treatment Overview\r\n\r\nChiropractic is an approach to health care that tries to relieve pain through spinal manipulation. It is most often used for back or neck pain, and sometimes it is used for headaches or for pain in the arms or legs.\r\n\r\nSpinal manipulation involves working on the head, shoulders, neck, back, or hips to help relieve pain. It can range from massage and slow pressing to a quick thrust.\r\n\r\nMost doctors of chiropractic (chiropractors) take a natural approach to promoting health through lifestyle changes, nutrition, and exercise. Many chiropractors have extra training in physical rehabilitation and specific exercise therapy. Some also use nutritional analysis, herbal therapy, and acupuncture.\r\n\r\n### What happens\r\n\r\nIf you've never been to a chiropractor before, you may be a little worried about what will happen. Visiting a chiropractor for low back pain is actually simple, safe, and usually painless. And a visit to the chiropractor results in relief for many people.\r\n\r\nYour first visit will be a lot like a first-time visit to any new doctor. It's likely to include:\r\n\r\nA health history.\r\n\r\nYou will probably fill out a form with questions about your health. The chiropractor may also ask more questions, such as whether you have headaches or migraines or sleeping problems. You also may be asked about your diet and your activity level.\r\n\r\nA physical exam.\r\n\r\nThe chiropractor may check your posture to look for things that aren't normal, such as one shoulder or hip that is higher than the other. The exam may also include a muscle test. This test involves pressing an arm or leg against the chiropractor's hand to test strength. You may also walk a short distance so that the chiropractor can check how you walk or other arm or leg movements.\r\n\r\nYou may also have an X-ray of your spine.\r\n\r\nWhen the chiropractor has all the information, it's time to sit down with you and talk about treatment. If the treatment plan includes spinal manipulation, you could have it the same day or at a later appointment.\r\n\r\n### Treatment\r\n\r\nChiropractic treatments usually involve [spinal manipulation](document/abx0471/abx0471-sec). The goal is to increase movement in the spinal joints and relax the muscles. Some chiropractors use heat, electrical stimulation, or ultrasound to help relax your muscles before doing spinal manipulation. Your chiropractor may teach you exercises you can do at home. Some chiropractors also offer advice on healthy lifestyle choices and nutrition.\r\n\r\n### Spinal manipulation\r\n\r\nSpinal manipulation normally doesn't hurt. If you're already in pain because of your back, it may hurt to move. But manipulation is aimed at making you feel better.\r\n\r\nThe most familiar type of spinal manipulation is the hands-on approach: You lie on a table while the health professional uses their hands or a device to apply pressure to an area of your spine. Some people call this \"cracking\" your back because of the popping sound that is sometimes made. But nothing is actually \"cracking.\" The sound happens when the tissues of the spinal joint are stretched.\r\n\r\nSome health professionals use a drop table for manipulations. Parts of the table drop slightly when the health professional presses down on your back. The table is noisy, but this method is actually very gentle.\r\n\r\nSome health professionals use a handheld device called an activator to do spinal manipulations. This is also very gentle.\r\n\r\n### How to choose a chiropractor\r\n\r\nAsk your friends for recommendations or look online. Find out what they do and don't like about their health professional and why. Check the background and education of providers you're interested in. It is sometimes helpful to have a visit to make sure you are comfortable with a provider's practice style.<a name=\"aa104378-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Low Back Pain](document/hw56429/acn1169)\r\n- [Neck Pain](document/tr1125/acn0619)<a name=\"aa104378-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen Romito MD - Family Medicine\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen Romito MD - Family Medicine\r\n\r\n### Topic Contents\r\n\r\n- [Treatment Overview](#acl7052)\r\n- [Related Information](#aa104378-RelInfo)\r\n- [Credits](#aa104378-Credits)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Chiropractic",
+        "topics": [
+            {
+                "id": "sec-acl7052",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Treatment Overview"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7052\"></a>\r\n\r\n## Treatment Overview\r\n\r\nChiropractic is an approach to health care that tries to relieve pain through spinal manipulation. It is most often used for back or neck pain, and sometimes it is used for headaches or for pain in the arms or legs.\r\n\r\nSpinal manipulation involves working on the head, shoulders, neck, back, or hips to help relieve pain. It can range from massage and slow pressing to a quick thrust.\r\n\r\nMost doctors of chiropractic (chiropractors) take a natural approach to promoting health through lifestyle changes, nutrition, and exercise. Many chiropractors have extra training in physical rehabilitation and specific exercise therapy. Some also use nutritional analysis, herbal therapy, and acupuncture.\r\n\r\n### What happens\r\n\r\nIf you've never been to a chiropractor before, you may be a little worried about what will happen. Visiting a chiropractor for low back pain is actually simple, safe, and usually painless. And a visit to the chiropractor results in relief for many people.\r\n\r\nYour first visit will be a lot like a first-time visit to any new doctor. It's likely to include:\r\n\r\nA health history.\r\n\r\nYou will probably fill out a form with questions about your health. The chiropractor may also ask more questions, such as whether you have headaches or migraines or sleeping problems. You also may be asked about your diet and your activity level.\r\n\r\nA physical exam.\r\n\r\nThe chiropractor may check your posture to look for things that aren't normal, such as one shoulder or hip that is higher than the other. The exam may also include a muscle test. This test involves pressing an arm or leg against the chiropractor's hand to test strength. You may also walk a short distance so that the chiropractor can check how you walk or other arm or leg movements.\r\n\r\nYou may also have an X-ray of your spine.\r\n\r\nWhen the chiropractor has all the information, it's time to sit down with you and talk about treatment. If the treatment plan includes spinal manipulation, you could have it the same day or at a later appointment.\r\n\r\n### Treatment\r\n\r\nChiropractic treatments usually involve [spinal manipulation](document/abx0471/abx0471-sec). The goal is to increase movement in the spinal joints and relax the muscles. Some chiropractors use heat, electrical stimulation, or ultrasound to help relax your muscles before doing spinal manipulation. Your chiropractor may teach you exercises you can do at home. Some chiropractors also offer advice on healthy lifestyle choices and nutrition.\r\n\r\n### Spinal manipulation\r\n\r\nSpinal manipulation normally doesn't hurt. If you're already in pain because of your back, it may hurt to move. But manipulation is aimed at making you feel better.\r\n\r\nThe most familiar type of spinal manipulation is the hands-on approach: You lie on a table while the health professional uses their hands or a device to apply pressure to an area of your spine. Some people call this \"cracking\" your back because of the popping sound that is sometimes made. But nothing is actually \"cracking.\" The sound happens when the tissues of the spinal joint are stretched.\r\n\r\nSome health professionals use a drop table for manipulations. Parts of the table drop slightly when the health professional presses down on your back. The table is noisy, but this method is actually very gentle.\r\n\r\nSome health professionals use a handheld device called an activator to do spinal manipulations. This is also very gentle.\r\n\r\n### How to choose a chiropractor\r\n\r\nAsk your friends for recommendations or look online. Find out what they do and don't like about their health professional and why. Check the background and education of providers you're interested in. It is sometimes helpful to have a visit to make sure you are comfortable with a provider's practice style.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104378-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104378-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)\r\n- [Low Back Pain](document/hw56429/acn1169)\r\n- [Neck Pain](document/tr1125/acn0619)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104378-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwCreditsWithoutNavstack HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104378-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen Romito MD - Family Medicine",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "cpain",
+                "title": "Chronic Pain"
+            },
+            {
+                "id": "tr1125",
+                "title": "Neck Pain"
+            },
+            {
+                "id": "hw56429",
+                "title": "Low Back Pain"
+            },
+            {
+                "id": "aa63785",
+                "title": "Complementary Medicine"
+            }
+        ]
+    }
+}

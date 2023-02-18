@@ -1,0 +1,182 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/articles/aa104729spec/en-us?contentOutput=markdown+json",
+        "localizations": {
+            "en-us": "https://content.healthwise.net/articles/aa104729spec/en-us",
+            "es-us": "https://content.healthwise.net/articles/aa104729spec/es-us"
+        },
+        "metadata": {
+            "en-us": "https://content.healthwise.net/metadata/aa104729spec/en-us",
+            "es-us": "https://content.healthwise.net/metadata/aa104729spec/es-us"
+        }
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "id": "aa104729spec",
+        "version": "13.6",
+        "hash": "-570243509",
+        "certifiedDate": "2022-09-08",
+        "lang": "en-us",
+        "docType": "otherdetail",
+        "type": "otherdetail",
+        "resources": {
+            "css": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/main_ie8.css"
+                },
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/style/print.css",
+                    "media": "print"
+                }
+            ],
+            "inline": "\n          if (!window.org) var org = { healthwise: {'application':{}} };\n          else if (!window.org.healthwise) org[\"healthwise\"] = {'application':{}};\n          org.healthwise.config = { \n              root: 'https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/',\n              locale: 'en-us',\n              version: '13.6',\n              isoshg: false\n          \n          };\n      org.healthwise.document = {};\n        org.healthwise.document.id = \"aa104729spec\";\n          org.healthwise.document.section = \"\";\n          org.healthwise.document.healthwise = true;\n          org.healthwise.document.title = \"Homeopathy\"; org.healthwise.document.family = \"kb\";\n          org.healthwise.document.doctype = \"OtherDetail\"; \n          org.healthwise.document.pagetype = \"content\"; \n          ",
+            "javascript": [
+                {
+                    "target": "https://assetpool.healthwise.net/13.6/common/desktop/alpine.rhtml.kbnet.awesome/inc/control/healthwise.js"
+                },
+                {
+                    "target": "https://content.healthwise.net/scripts/hw-content-custom_1.0.0.js"
+                }
+            ]
+        },
+        "title": {
+            "consumer": "Homeopathy",
+            "englishConsumer": "Homeopathy"
+        },
+        "abstract": {
+            "consumer": "Homeopathy, or homeopathic medicine, is an alternative medical practice founded in the late 1700s in Germany. It's based on the idea that the body has the ability to heal itself. Homeopathic medicine views symptoms of illness as normal responses of the body as it attempts to regain health. Homeopathy is based on the...",
+            "clinical": "Homeopathy, or homeopathic medicine, is an alternative medical practice founded in the late 1700s in Germany. It's based on the idea that the body has the ability to heal itself. Homeopathic medicine views symptoms of illness as normal responses of the body as it attempts to regain health. Homeopathy is based on the..."
+        },
+        "legal": {
+            "logo": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "copyright": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).\r\n\r\n© 1995-2023 Healthwise, Incorporated. Healthwise, Healthwise for every health decision, and the Healthwise logo are trademarks of Healthwise, Incorporated.",
+            "disclaimer": "This information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en).",
+            "logoUrl": "[![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo.png)![Click here to learn about Healthwise](https://content.healthwise.net/resources/13.6/en-us/media/interface/hwlogo_hc.png)](https://www.healthwise.org/specialpages/legal/abouthw/en)",
+            "termsOfUseUrl": "https://www.healthwise.org/specialpages/legal/terms.aspx",
+            "privacyPolicyUrl": "https://www.healthwise.org/specialpages/legal/privacy.aspx",
+            "moreInformationUrl": "https://www.healthwise.org",
+            "toLearnMoreHtml": "To learn more about Healthwise, visit [Healthwise.org](https://www.healthwise.org/).",
+            "yourUseOfThisInformationHtml": "Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx) and [Privacy Policy](https://www.healthwise.org/specialpages/legal/privacy.aspx)."
+        },
+        "navigation": {
+            "html": "<nav><div id=\"HwNavigationWrapper\" class=\"HwElement\"><div id=\"HwNavigation\" class=\"HwNavigation\" role=\"navigation\"><h3 id=\"HwNavStackHeader\" class=\"HwNavStackHeader\">Topic Contents</h3><ul aria-labelledby=\"HwNavStackHeader\"><li id=\"nav-acl6881\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104729spec\" href=\"#acl6881\" data-section-href=\"acl6881\" data-topicId=\"acl6881\" data-articleId=\"aa104729spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104729spec\">Treatment Overview</a></li><li id=\"nav-acl7153\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104729spec\" href=\"#acl7153\" data-section-href=\"acl7153\" data-topicId=\"acl7153\" data-articleId=\"aa104729spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104729spec\">Why It Is Used</a></li><li id=\"nav-acl6882\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104729spec\" href=\"#acl6882\" data-section-href=\"acl6882\" data-topicId=\"acl6882\" data-articleId=\"aa104729spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104729spec\">Risks</a></li><li id=\"nav-aa104729spec-RelInfo\"><a class=\"HwLinkNavstack\" data-hwid=\"aa104729spec\" href=\"#aa104729spec-RelInfo\" data-section-href=\"aa104729spec-RelInfo\" data-topicId=\"aa104729spec-RelInfo\" data-articleId=\"aa104729spec\" data-document-type=\"OtherDetail\" data-document-href=\"aa104729spec\">Related Information</a></li></ul></div></div></nav>"
+        },
+        "credits": {
+            "author": {
+                "name": "Healthwise Staff"
+            },
+            "primaryReviewers": [
+                {
+                    "name": "Adam Husney MD - Family Medicine"
+                },
+                {
+                    "name": "Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine"
+                }
+            ],
+            "secondaryReviewers": [],
+            "html": "Current as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine"
+        },
+        "pageHtml": {
+            "headHtml": "",
+            "bodyHtml": "<a name=\"top\">Top of the page</a>\r\n\r\n# Homeopathy<a name=\"acl6881\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld205398_kb.jpg)\r\n\r\nHomeopathy, or homeopathic medicine, is an alternative medical practice founded in the late 1700s in Germany. It's based on the idea that the body has the ability to heal itself. Homeopathic medicine views symptoms of illness as normal responses of the body as it attempts to regain health.\r\n\r\nHomeopathy is based on the idea that \"like cures like.\" That is, if a substance causes a symptom in a healthy person, giving the person a very small amount of the same substance may cure the illness. In theory, a homeopathic dose enhances the body's normal healing and self-regulatory processes.\r\n\r\nA homeopathic health practitioner uses pills or liquid mixtures (solutions) containing only a little of an active ingredient (usually a plant or mineral). These are known as highly diluted or \"potentiated\" substances.\r\n\r\nThere is no clear evidence from science to show that homeopathic medicines are effective for any specific condition.<a name=\"acl7153\"></a><a name=\"acl7153\"></a>\r\n\r\n## Why It Is Used\r\n\r\nSome people have tried homeopathy to maintain health and for a wide range of long-term illnesses, such as allergies, atopic dermatitis, rheumatoid arthritis, and irritable bowel syndrome. They have also tried it for minor injuries, such as cuts and scrapes and muscle strains or sprains.\r\n\r\nIt is not good to use homeopathic treatment for serious illnesses, such as cancer, heart disease, or major infections. It's also not safe for major emergencies.<a name=\"acl6882\"></a><a name=\"acl6882\"></a>\r\n\r\n## Risks\r\n\r\nHomeopathic remedies are thought to be safe in most cases. But some can interact with medicines that you are taking. And there isn't any evidence to show that you can safely use homeopathic products instead of getting recommended shots or vaccines.\r\n\r\nThe U.S. Food and Drug Administration (FDA) does not regulate homeopathic products in the same way it regulates medicines. A homeopathic product can be sold with limited or no research on how well it works.\r\n\r\nHomeopathic remedies should not replace conventional treatments for serious health concerns. Talk with your doctor about any complementary or alternative health practice that you would like to try or are already using. Your doctor can help you manage your health better if they know about all of your health practices.<a name=\"aa104729spec-RelInfo\"></a><a name=\"aa104729spec-RelInfo\"></a>\r\n\r\n## Related Information\r\n\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)<a name=\"aa104729spec-Credits\"></a><a name=\"aa104729spec-Credits\"></a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine\r\n\r\n### Topic Contents\r\n\r\n- [Treatment Overview](#acl6881)\r\n- [Why It Is Used](#acl7153)\r\n- [Risks](#acl6882)\r\n- [Related Information](#aa104729spec-RelInfo)\r\n\r\nThis information does not replace the advice of a doctor. Healthwise, Incorporated, disclaims any warranty or liability for your use of this information. Your use of this information means that you agree to the [Terms of Use](https://www.healthwise.org/specialpages/legal/terms.aspx). Learn [how we develop our content](https://www.healthwise.org/specialpages/legal/abouthw/en)."
+        },
+        "pageTemplateJson": "<a name=\"top\">Top of the page</a>\r\n\r\n# Homeopathy\r\n\r\n- \r\n- [Top of the page](#top)\r\n- \r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: [Healthwise Staff](https://www.healthwise.org/specialpages/legal/abouthw/en)\r\n\r\n[Medical Review:](https://www.healthwise.org/mdreviewboard.aspx?lang=en-us)Adam Husney MD - Family Medicine & Kathleen M. Fairfield MD, MPH, DrPH - Internal Medicine",
+        "topics": [
+            {
+                "id": "sec-acl6881",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Treatment Overview"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6881\"></a>\r\n\r\n## Treatment Overview![](https://content.healthwise.net/resources/13.6/en-us/media/medical/hw/bld205398_kb.jpg)\r\n\r\nHomeopathy, or homeopathic medicine, is an alternative medical practice founded in the late 1700s in Germany. It's based on the idea that the body has the ability to heal itself. Homeopathic medicine views symptoms of illness as normal responses of the body as it attempts to regain health.\r\n\r\nHomeopathy is based on the idea that \"like cures like.\" That is, if a substance causes a symptom in a healthy person, giving the person a very small amount of the same substance may cure the illness. In theory, a homeopathic dose enhances the body's normal healing and self-regulatory processes.\r\n\r\nA homeopathic health practitioner uses pills or liquid mixtures (solutions) containing only a little of an active ingredient (usually a plant or mineral). These are known as highly diluted or \"potentiated\" substances.\r\n\r\nThere is no clear evidence from science to show that homeopathic medicines are effective for any specific condition.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl7153",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Why It Is Used"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl7153\"></a><a name=\"acl7153\"> </a>\r\n\r\n## Why It Is Used\r\n\r\nSome people have tried homeopathy to maintain health and for a wide range of long-term illnesses, such as allergies, atopic dermatitis, rheumatoid arthritis, and irritable bowel syndrome. They have also tried it for minor injuries, such as cuts and scrapes and muscle strains or sprains.\r\n\r\nIt is not good to use homeopathic treatment for serious illnesses, such as cancer, heart disease, or major infections. It's also not safe for major emergencies.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-acl6882",
+                "lang": "en-us",
+                "type": "HwSectionSpecialSection",
+                "title": {
+                    "consumer": "Risks"
+                },
+                "navigable": true,
+                "html": "<a name=\"acl6882\"></a><a name=\"acl6882\"> </a>\r\n\r\n## Risks\r\n\r\nHomeopathic remedies are thought to be safe in most cases. But some can interact with medicines that you are taking. And there isn't any evidence to show that you can safely use homeopathic products instead of getting recommended shots or vaccines.\r\n\r\nThe U.S. Food and Drug Administration (FDA) does not regulate homeopathic products in the same way it regulates medicines. A homeopathic product can be sold with limited or no research on how well it works.\r\n\r\nHomeopathic remedies should not replace conventional treatments for serious health concerns. Talk with your doctor about any complementary or alternative health practice that you would like to try or are already using. Your doctor can help you manage your health better if they know about all of your health practices.",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104729spec-RelInfo",
+                "lang": "en-us",
+                "type": "HwSectionRelatedInformation",
+                "title": {
+                    "consumer": "Related Information"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104729spec-RelInfo\"></a><a name=\"aa104729spec-RelInfo\"> </a>\r\n\r\n## Related Information\r\n\r\n- [Chronic Pain](document/cpain/acm7127)\r\n- [Complementary Medicine](document/aa63785/acn4349)",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            },
+            {
+                "id": "sec-aa104729spec-Credits",
+                "lang": "en-us",
+                "type": "HwCreditsSection HwCreditsWithoutNavstack HwSectionCredits",
+                "title": {
+                    "consumer": "Credits"
+                },
+                "navigable": true,
+                "html": "<a name=\"aa104729spec-Credits\"></a><a name=\"aa104729spec-Credits\"> </a>\r\n\r\n## Credits\r\n\r\nCurrent as of: September 8, 2022\r\n\r\nAuthor: Healthwise Staff\\\r\nMedical Review:\\\r\nAdam Husney MD - Family Medicine\\\r\nKathleen M. Fairfield MD, MPH, DrPH - Internal Medicine",
+                "taxonomy": [],
+                "topics": [],
+                "content": [],
+                "citations": [],
+                "worksConsulted": []
+            }
+        ],
+        "citations": [],
+        "worksConsulted": [],
+        "consumerResources": [],
+        "relatedTopics": [
+            {
+                "id": "cpain",
+                "title": "Chronic Pain"
+            },
+            {
+                "id": "aa63785",
+                "title": "Complementary Medicine"
+            }
+        ]
+    }
+}

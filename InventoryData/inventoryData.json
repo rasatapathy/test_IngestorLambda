@@ -1,0 +1,3516 @@
+{
+    "status": 200,
+    "versioning": {
+        "X-HW-Version": "2"
+    },
+    "links": {
+        "self": "https://content.healthwise.net/inventory?contentVersion=13.6&skip=0&top=10&changeStatus=all&select=*",
+        "next": "https://content.healthwise.net/inventory?contentVersion=13.6&skip=10&top=10&changeStatus=all&select=*"
+    },
+    "schema": "https://content.healthwise.net/spec/schema.healthwise.api.item.json",
+    "data": {
+        "inventory": [
+            {
+                "hwid": "aa100180",
+                "href": "https://content.healthwise.net/articles/aa100180/en-us",
+                "version": "13.6",
+                "authoringVersion": "39",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "mini",
+                "subType": "",
+                "family": "kb",
+                "rank": "1",
+                "minAge": "13",
+                "maxAge": "64",
+                "meshAges": [
+                    "D000293",
+                    "D055815",
+                    "D000328",
+                    "D008875"
+                ],
+                "gender": [
+                    "female"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Pregnancy and Childbirth",
+                            "learningCenterId": "center1030"
+                        },
+                        {
+                            "categoryId": "cat1040",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Women's Health",
+                            "learningCenterId": "center1040"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Embarazo y parto",
+                            "learningCenterId": "center1030"
+                        },
+                        {
+                            "categoryId": "cat1040",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Salud femenina",
+                            "learningCenterId": "center1040"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": [
+                    "P121"
+                ],
+                "published": "2022-11-09",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_20016",
+                        "name": "High Amniotic Fluid"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04023",
+                        "name": "Obstetrics"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23375",
+                        "name": "Midwifery"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Polyhydramnios",
+                    "es-us": "Polihidramnios"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "What is polyhydramnios? Amniotic fluid surrounds the fetus during pregnancy. Having too much of this fluid is called polyhydramnios. It means that there's more fluid around your baby than there should be. In some cases, too much amniotic fluid doesn't cause problems. In other cases, it can cause problems, such as...",
+                    "es-us": "Polihidramnios es una afección en la que hay demasiado líquido en el saco amniótico, el saco que contiene al bebé en desarrollo (feto). Este líquido se llama líquido amniótico y rodea al bebé durante el embarazo. En muchos casos, tal vez no pueda descubrirse la causa del polihidramnios. Pero las causas pueden incluir..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "acn1231",
+                            "title": "Condition Basics"
+                        },
+                        {
+                            "sectionHwid": "aa100180-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa100180-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "aa100180-sec",
+                            "title": "Generalidades"
+                        },
+                        {
+                            "sectionHwid": "aa100180-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa100180-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "Excessive Amniotic Fluid",
+                                "Excessive liquor",
+                                "High Amniotic Fluid",
+                                "Hydramnios",
+                                "Polyhydramnion",
+                                "Polyhydramnios",
+                                "Polyhydramnios (disorder)",
+                                "Polyhydramnios (Too Much Amniotic Fluid)",
+                                "Too Much Amniotic Fluid"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "Excessive Amniotic Fluid",
+                                "Excessive liquor",
+                                "High Amniotic Fluid",
+                                "Hydramnios",
+                                "Polyhydramnion",
+                                "Polyhydramnios",
+                                "Polyhydramnios (disorder)",
+                                "Polyhydramnios (Too Much Amniotic Fluid)",
+                                "Too Much Amniotic Fluid",
+                                "Hidramnios",
+                                "polihidramnios",
+                                "polihidramnios (trastorno)"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "icd9": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "657",
+                                "657.0"
+                            ]
+                        }
+                    ],
+                    "icd10": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "O40",
+                                "O40.1",
+                                "O40.1XX0",
+                                "O40.1XX1",
+                                "O40.1XX2",
+                                "O40.1XX3",
+                                "O40.1XX4",
+                                "O40.1XX5",
+                                "O40.1XX9",
+                                "O40.2",
+                                "O40.2XX0",
+                                "O40.2XX1",
+                                "O40.2XX2",
+                                "O40.2XX3",
+                                "O40.2XX4",
+                                "O40.2XX5",
+                                "O40.2XX9",
+                                "O40.3",
+                                "O40.3XX0",
+                                "O40.3XX1",
+                                "O40.3XX2",
+                                "O40.3XX3",
+                                "O40.3XX4",
+                                "O40.3XX5",
+                                "O40.3XX9",
+                                "O40.9",
+                                "O40.9XX0",
+                                "O40.9XX1",
+                                "O40.9XX2",
+                                "O40.9XX3",
+                                "O40.9XX4",
+                                "O40.9XX5",
+                                "O40.9XX9"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "86203003"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "mini",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    },
+                    "es-us": {
+                        "type": "mini",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa100355",
+                "href": "https://content.healthwise.net/articles/aa100355/en-us",
+                "version": "13.6",
+                "authoringVersion": "39",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca"
+                ],
+                "type": "focus",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "13",
+                "maxAge": "64",
+                "meshAges": [
+                    "D000293",
+                    "D055815",
+                    "D000328",
+                    "D008875"
+                ],
+                "gender": [
+                    "female"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Pregnancy and Childbirth",
+                            "learningCenterId": "center1030"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Embarazo y parto",
+                            "learningCenterId": "center1030"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-11-09",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_20044",
+                        "name": "Preterm Labor"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23805",
+                        "name": "Preterm Birth"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_20029",
+                        "name": "Multiple Pregnancy"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_20058",
+                        "name": "Pregnancy, 3rd Trimester"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04023",
+                        "name": "Obstetrics"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23376",
+                        "name": "Maternal Fetal Medicine"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23375",
+                        "name": "Midwifery"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_05230",
+                        "name": "Neonatal-Perinatal Medicine"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Multiple Pregnancy: Preterm Birth",
+                    "es-us": "Multiple Pregnancy: Preterm Birth"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Pregnancy normally lasts about 40 weeks. When delivery occurs between 20 and 37 weeks of pregnancy, it's called a preterm birth. A baby born early is called preterm (or premature). Preterm babies are sometimes called \"preemies.\" Multiple pregnancies rarely last for the usual 40 weeks. For twins, the average time to...",
+                    "es-us": "Pregnancy normally lasts about 40 weeks. When delivery occurs between 20 and 37 weeks of pregnancy, it's called a preterm birth. A baby born early is called preterm (or premature). Preterm babies are sometimes called \"preemies.\" Multiple pregnancies rarely last for the usual 40 weeks. For twins, the average time to..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "aa100355-sec",
+                            "title": "Overview"
+                        },
+                        {
+                            "sectionHwid": "aa100355-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa100355-Bib",
+                            "title": "References"
+                        },
+                        {
+                            "sectionHwid": "aa100355-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "aa100355-sec",
+                            "title": "Overview"
+                        },
+                        {
+                            "sectionHwid": "aa100355-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa100355-Bib",
+                            "title": "References"
+                        },
+                        {
+                            "sectionHwid": "aa100355-Credits",
+                            "title": "Credits"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "gestation multiple",
+                                "gestations multiple",
+                                "Multifetal Pregnancy",
+                                "multiple gestation",
+                                "Multiple Pregnancies",
+                                "Multiple Pregnancy",
+                                "Multiple pregnancy (disorder)",
+                                "multiples pregnancy",
+                                "Multiples Pregnancy",
+                                "Octuplets",
+                                "Pregnancies, Multiple",
+                                "pregnancy multiple",
+                                "Pregnancy, Multiple",
+                                "Pregnant with Multiples",
+                                "Pregnant with Twins or More",
+                                "Quadruplets",
+                                "Quintuplets",
+                                "Septuplets",
+                                "Sextuplets",
+                                "Triplets",
+                                "Twins"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "birth premature",
+                                "birth preterm",
+                                "Birth, Premature",
+                                "Birth, Preterm",
+                                "births premature",
+                                "births preterm",
+                                "Births, Premature",
+                                "Births, Preterm",
+                                "deliveries preterm",
+                                "delivery premature",
+                                "delivery preterm",
+                                "Early Labor",
+                                "Early onset of delivery",
+                                "immature baby",
+                                "labor premature",
+                                "labor preterm",
+                                "Labor, Premature",
+                                "Labor, Premature Obstetric",
+                                "Labor, Preterm",
+                                "labors preterm",
+                                "labour premature",
+                                "labour preterm",
+                                "Obstetric Labor, Premature",
+                                "Premature (Preterm) Birth",
+                                "Premature Babies",
+                                "Premature Birth",
+                                "Premature birth of multiple newborns",
+                                "Premature birth of multiple newborns (finding)",
+                                "Premature Births",
+                                "premature childbirth",
+                                "premature delivery",
+                                "Premature delivery (finding)",
+                                "premature infant",
+                                "Premature infant (finding)",
+                                "premature infants",
+                                "premature labor",
+                                "Premature Labor",
+                                "Premature labor (finding)",
+                                "Premature labour",
+                                "Premature Labour",
+                                "Premature Obstetric Labor",
+                                "Premature onset of labor",
+                                "Premature Onset of Labor",
+                                "Premature onset of labour",
+                                "Premature pregnancy delivered",
+                                "Premature pregnancy delivered (finding)",
+                                "Presentation in multiple pregnancy",
+                                "Preterm (Premature) Birth",
+                                "Preterm (Premature) Labor",
+                                "preterm birth",
+                                "Preterm Birth",
+                                "Preterm Births",
+                                "preterm delivery",
+                                "preterm labor",
+                                "Preterm Labor",
+                                "Preterm labor with preterm delivery",
+                                "Preterm labor with preterm delivery (finding)",
+                                "Preterm labour",
+                                "Preterm Labour",
+                                "Preterm labour with preterm delivery",
+                                "PTL"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "keywords": [
+                                "3rd Pregnancy Trimester",
+                                "3rd trimester",
+                                "3rd Trimester",
+                                "3rd Trimester of Pregnancy",
+                                "Encounter due to first normal pregnancy supervision",
+                                "Infant, Premature",
+                                "last pregnancy trimester",
+                                "Last Pregnancy Trimester",
+                                "Last Trimester",
+                                "Last trimester of pregnancy",
+                                "last trimester pregnancy",
+                                "Last Trimesters",
+                                "Maternity",
+                                "Patient currently pregnant (finding)",
+                                "Preemies",
+                                "Pregnancies, Third Trimester",
+                                "Pregnancy not delivered",
+                                "pregnancy third trimester",
+                                "Pregnancy Trimester, Third",
+                                "Pregnancy Trimesters, Third",
+                                "Pregnancy, 3rd Trimester",
+                                "Pregnancy, Third Trimester",
+                                "Pregnancy, Weeks 26 to 30",
+                                "Pregnancy, Weeks 30 to 32",
+                                "Pregnancy, Weeks 32 to 34",
+                                "Pregnancy, Weeks 34 to 36",
+                                "premature baby",
+                                "Premature delivery of multiple newborns",
+                                "Premature infant",
+                                "Prematurity of infant",
+                                "Third Pregnancy Trimester",
+                                "Third Pregnancy Trimesters",
+                                "third trimester",
+                                "Third Trimester",
+                                "Third trimester (qualifier value)",
+                                "Third Trimester of Pregnancy",
+                                "Third Trimester Pregnancies",
+                                "Third Trimester Pregnancy",
+                                "Third trimester pregnancy (finding)",
+                                "Third Trimesters",
+                                "trimester third",
+                                "Trimester, Last",
+                                "Trimester, Third",
+                                "Trimesters, Last",
+                                "Trimesters, Third"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "gestation multiple",
+                                "gestations multiple",
+                                "Multifetal Pregnancy",
+                                "multiple gestation",
+                                "Multiple Pregnancies",
+                                "Multiple Pregnancy",
+                                "Multiple pregnancy (disorder)",
+                                "multiples pregnancy",
+                                "Multiples Pregnancy",
+                                "Octuplets",
+                                "Pregnancies, Multiple",
+                                "pregnancy multiple",
+                                "Pregnancy, Multiple",
+                                "Pregnant with Multiples",
+                                "Pregnant with Twins or More",
+                                "Quadruplets",
+                                "Quintuplets",
+                                "Septuplets",
+                                "Sextuplets",
+                                "Triplets",
+                                "Twins"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "birth premature",
+                                "birth preterm",
+                                "Birth, Premature",
+                                "Birth, Preterm",
+                                "births premature",
+                                "births preterm",
+                                "Births, Premature",
+                                "Births, Preterm",
+                                "deliveries preterm",
+                                "delivery premature",
+                                "delivery preterm",
+                                "Early Labor",
+                                "Early onset of delivery",
+                                "immature baby",
+                                "labor premature",
+                                "labor preterm",
+                                "Labor, Premature",
+                                "Labor, Premature Obstetric",
+                                "Labor, Preterm",
+                                "labors preterm",
+                                "labour premature",
+                                "labour preterm",
+                                "Obstetric Labor, Premature",
+                                "Premature (Preterm) Birth",
+                                "Premature Babies",
+                                "Premature Birth",
+                                "Premature birth of multiple newborns",
+                                "Premature birth of multiple newborns (finding)",
+                                "Premature Births",
+                                "premature childbirth",
+                                "premature delivery",
+                                "Premature delivery (finding)",
+                                "premature infant",
+                                "Premature infant (finding)",
+                                "premature infants",
+                                "premature labor",
+                                "Premature Labor",
+                                "Premature labor (finding)",
+                                "Premature labour",
+                                "Premature Labour",
+                                "Premature Obstetric Labor",
+                                "Premature onset of labor",
+                                "Premature Onset of Labor",
+                                "Premature onset of labour",
+                                "Premature pregnancy delivered",
+                                "Premature pregnancy delivered (finding)",
+                                "Presentation in multiple pregnancy",
+                                "Preterm (Premature) Birth",
+                                "Preterm (Premature) Labor",
+                                "preterm birth",
+                                "Preterm Birth",
+                                "Preterm Births",
+                                "preterm delivery",
+                                "preterm labor",
+                                "Preterm Labor",
+                                "Preterm labor with preterm delivery",
+                                "Preterm labor with preterm delivery (finding)",
+                                "Preterm labour",
+                                "Preterm Labour",
+                                "Preterm labour with preterm delivery",
+                                "PTL"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "keywords": [
+                                "3rd Pregnancy Trimester",
+                                "3rd trimester",
+                                "3rd Trimester",
+                                "3rd Trimester of Pregnancy",
+                                "Encounter due to first normal pregnancy supervision",
+                                "Infant, Premature",
+                                "last pregnancy trimester",
+                                "Last Pregnancy Trimester",
+                                "Last Trimester",
+                                "Last trimester of pregnancy",
+                                "last trimester pregnancy",
+                                "Last Trimesters",
+                                "Maternity",
+                                "Patient currently pregnant (finding)",
+                                "Preemies",
+                                "Pregnancies, Third Trimester",
+                                "Pregnancy not delivered",
+                                "pregnancy third trimester",
+                                "Pregnancy Trimester, Third",
+                                "Pregnancy Trimesters, Third",
+                                "Pregnancy, 3rd Trimester",
+                                "Pregnancy, Third Trimester",
+                                "Pregnancy, Weeks 26 to 30",
+                                "Pregnancy, Weeks 30 to 32",
+                                "Pregnancy, Weeks 32 to 34",
+                                "Pregnancy, Weeks 34 to 36",
+                                "premature baby",
+                                "Premature delivery of multiple newborns",
+                                "Premature infant",
+                                "Prematurity of infant",
+                                "Third Pregnancy Trimester",
+                                "Third Pregnancy Trimesters",
+                                "third trimester",
+                                "Third Trimester",
+                                "Third trimester (qualifier value)",
+                                "Third Trimester of Pregnancy",
+                                "Third Trimester Pregnancies",
+                                "Third Trimester Pregnancy",
+                                "Third trimester pregnancy (finding)",
+                                "Third Trimesters",
+                                "trimester third",
+                                "Trimester, Last",
+                                "Trimester, Third",
+                                "Trimesters, Last",
+                                "Trimesters, Third"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "icd9": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "651",
+                                "651.1",
+                                "651.10",
+                                "651.11",
+                                "651.2",
+                                "651.20",
+                                "651.21",
+                                "651.23",
+                                "651.9",
+                                "651.90"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "644.03",
+                                "644.2",
+                                "651.0",
+                                "651.00",
+                                "651.01",
+                                "651.03",
+                                "V28.82"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "V22.0",
+                                "V22.1",
+                                "V22.2"
+                            ]
+                        }
+                    ],
+                    "icd10": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "O30",
+                                "O30.1",
+                                "O30.10",
+                                "O30.101",
+                                "O30.102",
+                                "O30.103",
+                                "O30.109",
+                                "O30.11",
+                                "O30.111",
+                                "O30.112",
+                                "O30.113",
+                                "O30.119",
+                                "O30.12",
+                                "O30.121",
+                                "O30.122",
+                                "O30.123",
+                                "O30.129",
+                                "O30.19",
+                                "O30.191",
+                                "O30.192",
+                                "O30.193",
+                                "O30.199",
+                                "O30.2",
+                                "O30.20",
+                                "O30.201",
+                                "O30.202",
+                                "O30.203",
+                                "O30.209",
+                                "O30.21",
+                                "O30.211",
+                                "O30.212",
+                                "O30.213",
+                                "O30.219",
+                                "O30.22",
+                                "O30.221",
+                                "O30.222",
+                                "O30.223",
+                                "O30.229",
+                                "O30.29",
+                                "O30.291",
+                                "O30.292",
+                                "O30.293",
+                                "O30.299",
+                                "O30.8",
+                                "O30.80",
+                                "O30.801",
+                                "O30.802",
+                                "O30.803",
+                                "O30.809",
+                                "O30.81",
+                                "O30.811",
+                                "O30.812",
+                                "O30.813",
+                                "O30.819",
+                                "O30.82",
+                                "O30.821",
+                                "O30.822",
+                                "O30.823",
+                                "O30.829",
+                                "O30.89",
+                                "O30.891",
+                                "O30.892",
+                                "O30.893",
+                                "O30.899",
+                                "O30.9",
+                                "O30.90",
+                                "O30.91",
+                                "O30.92",
+                                "O30.93"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "O30.0",
+                                "O30.00",
+                                "O30.001",
+                                "O30.002",
+                                "O30.003",
+                                "O30.009",
+                                "O30.01",
+                                "O30.011",
+                                "O30.012",
+                                "O30.013",
+                                "O30.019",
+                                "O30.02",
+                                "O30.021",
+                                "O30.022",
+                                "O30.023",
+                                "O30.029",
+                                "O30.03",
+                                "O30.031",
+                                "O30.032",
+                                "O30.033",
+                                "O30.039",
+                                "O30.04",
+                                "O30.041",
+                                "O30.042",
+                                "O30.043",
+                                "O30.049",
+                                "O30.09",
+                                "O30.091",
+                                "O30.092",
+                                "O30.093",
+                                "O30.099",
+                                "O60",
+                                "O60.0",
+                                "O60.00",
+                                "O60.02",
+                                "O60.03",
+                                "O60.1",
+                                "O60.10",
+                                "O60.10X0",
+                                "O60.10X1",
+                                "O60.10X2",
+                                "O60.10X3",
+                                "O60.10X4",
+                                "O60.10X5",
+                                "O60.10X9",
+                                "O60.12",
+                                "O60.12X0",
+                                "O60.12X1",
+                                "O60.12X2",
+                                "O60.12X3",
+                                "O60.12X4",
+                                "O60.12X5",
+                                "O60.12X9",
+                                "O60.13",
+                                "O60.13X0",
+                                "O60.13X1",
+                                "O60.13X2",
+                                "O60.13X3",
+                                "O60.13X4",
+                                "O60.13X5",
+                                "O60.13X9",
+                                "O60.14",
+                                "O60.14X0",
+                                "O60.14X1",
+                                "O60.14X2",
+                                "O60.14X3",
+                                "O60.14X4",
+                                "O60.14X5",
+                                "O60.14X9",
+                                "O60.2",
+                                "O60.20",
+                                "O60.20X0",
+                                "O60.20X1",
+                                "O60.20X2",
+                                "O60.20X3",
+                                "O60.20X4",
+                                "O60.20X5",
+                                "O60.20X9",
+                                "O60.22",
+                                "O60.22X0",
+                                "O60.22X1",
+                                "O60.22X2",
+                                "O60.22X3",
+                                "O60.22X4",
+                                "O60.22X5",
+                                "O60.22X9",
+                                "O60.23",
+                                "O60.23X0",
+                                "O60.23X1",
+                                "O60.23X2",
+                                "O60.23X3",
+                                "O60.23X4",
+                                "O60.23X5",
+                                "O60.23X9",
+                                "P07.2",
+                                "P07.20",
+                                "P07.21",
+                                "P07.22",
+                                "P07.23",
+                                "P07.24",
+                                "P07.25",
+                                "P07.26"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "P07.10",
+                                "P07.3",
+                                "P07.30",
+                                "P07.31",
+                                "P07.32",
+                                "P07.33",
+                                "P07.34",
+                                "P07.35",
+                                "P07.36",
+                                "P07.37",
+                                "P07.38",
+                                "P07.39",
+                                "Z33.1",
+                                "Z34.00",
+                                "Z34.03",
+                                "Z34.80",
+                                "Z34.83",
+                                "Z34.90",
+                                "Z34.93"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "16356006",
+                                "237236005",
+                                "38720006",
+                                "43990006",
+                                "60810003",
+                                "64254006",
+                                "80997009"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "10761241000119104",
+                                "1148848009",
+                                "1148970006",
+                                "12275071000119109",
+                                "20272009",
+                                "249110003",
+                                "282020008",
+                                "459166009",
+                                "459167000",
+                                "459168005",
+                                "459169002",
+                                "459170001",
+                                "459171002",
+                                "49550006",
+                                "6383007",
+                                "65147003",
+                                "72957006",
+                                "75798003",
+                                "83787007",
+                                "84357006"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "10761141000119107",
+                                "10761191000119104",
+                                "10761341000119105",
+                                "169565003",
+                                "237239003",
+                                "237241002",
+                                "237244005",
+                                "248985009",
+                                "289448000",
+                                "289572007",
+                                "370383002",
+                                "395507008",
+                                "45139008",
+                                "4886009",
+                                "59403008",
+                                "698716002",
+                                "698717006",
+                                "724488005",
+                                "724489002",
+                                "771299009",
+                                "77386006",
+                                "890097003",
+                                "90797000"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "focus",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    },
+                    "es-us": {
+                        "type": "focus",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa10253",
+                "href": "https://content.healthwise.net/articles/aa10253/en-us",
+                "version": "13.6",
+                "authoringVersion": "9",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us",
+                    "fr-ca"
+                ],
+                "type": "medicaltest",
+                "subType": "",
+                "family": "kb",
+                "rank": "1",
+                "minAge": "2",
+                "maxAge": "110",
+                "meshAges": [
+                    "D002675",
+                    "D002648",
+                    "D000293",
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1021",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Heart and Circulation",
+                            "learningCenterId": "center1021"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1021",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Corazón y circulación",
+                            "learningCenterId": "center1021"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": [
+                    "K994",
+                    "T725",
+                    "F119"
+                ],
+                "published": "2022-09-07",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_21433",
+                        "name": "Ambulatory EKG"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_22373",
+                        "name": "Holter Monitor"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04004",
+                        "name": "Cardiology"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Ambulatory Electrocardiogram (EKG)",
+                    "es-us": "Electrocardiograma ambulatorio"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "An ambulatory electrocardiogram (EKG or ECG) records the electrical activity of your heart while you do your usual activities. Ambulatory means that you are able to walk during the test. This type of monitoring may also be called ambulatory EKG, Holter monitoring, 24-hour EKG, or cardiac event monitoring. Many heart...",
+                    "es-us": "Un electrocardiograma (ECG) ambulatorio registra la actividad eléctrica del corazón mientras usted hace sus actividades habituales. Ambulatorio significa que usted puede caminar durante la prueba. Este tipo de monitorización también puede llamarse ECG ambulatorio, monitorización Holter, ECG de 24 horas o monitorización..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "aa10256",
+                            "title": "Test Overview"
+                        },
+                        {
+                            "sectionHwid": "aa10268",
+                            "title": "Why It Is Done"
+                        },
+                        {
+                            "sectionHwid": "aa10274",
+                            "title": "How To Prepare"
+                        },
+                        {
+                            "sectionHwid": "aa10277",
+                            "title": "How It Is Done"
+                        },
+                        {
+                            "sectionHwid": "aa10295",
+                            "title": "How It Feels"
+                        },
+                        {
+                            "sectionHwid": "aa10297",
+                            "title": "Risks"
+                        },
+                        {
+                            "sectionHwid": "aa10299",
+                            "title": "Results"
+                        },
+                        {
+                            "sectionHwid": "aa10253-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa10253-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "aa10256",
+                            "title": "Generalidades de la prueba"
+                        },
+                        {
+                            "sectionHwid": "aa10268",
+                            "title": "Por qué se hace"
+                        },
+                        {
+                            "sectionHwid": "aa10274",
+                            "title": "Cómo prepararse"
+                        },
+                        {
+                            "sectionHwid": "aa10277",
+                            "title": "Cómo se hace"
+                        },
+                        {
+                            "sectionHwid": "aa10295",
+                            "title": "Qué se siente"
+                        },
+                        {
+                            "sectionHwid": "aa10297",
+                            "title": "Riesgos"
+                        },
+                        {
+                            "sectionHwid": "aa10299",
+                            "title": "Resultados"
+                        },
+                        {
+                            "sectionHwid": "aa10311",
+                            "title": "Qué afecta esta prueba"
+                        },
+                        {
+                            "sectionHwid": "aa10253-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa10253-Bib",
+                            "title": "Referencias"
+                        },
+                        {
+                            "sectionHwid": "aa10253-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "24-Hour EKG",
+                                "24-Hour Holter Monitoring",
+                                "ambulatory ecg",
+                                "Ambulatory ECG",
+                                "Ambulatory ECG monitoring",
+                                "Ambulatory EKG",
+                                "ambulatory electrocardiogram",
+                                "Ambulatory Electrocardiogram",
+                                "Ambulatory electrocardiogram (procedure)",
+                                "Ambulatory Electrocardiographic Monitoring",
+                                "Ambulatory Electrocardiography",
+                                "Ambulatory Electrocardiography Device",
+                                "Ambulatory Electrocardiography Monitoring",
+                                "Ambulatory Monitor",
+                                "Ambulatory Monitors",
+                                "cardiac event monitors",
+                                "Cardiac event recording",
+                                "Cardiac event recording (regime/therapy)",
+                                "continuous EKG monitoring",
+                                "Continuous electrocardiogram monitoring",
+                                "Continuous electrocardiogram monitoring (procedure)",
+                                "Dynamic Electrocardiography",
+                                "Electrocardiographic monitor and recorder",
+                                "Electrocardiographic monitor and recorder, device",
+                                "Electrocardiographic monitor and recorder, device (physical object)",
+                                "Electrocardiographic Monitoring, Ambulatory",
+                                "Electrocardiography Monitoring, Ambulatory",
+                                "Electrocardiography, Ambulatory",
+                                "Electrocardiography, Dynamic",
+                                "Holter Heart Monitor",
+                                "holter monitor",
+                                "Holter Monitor (24h)",
+                                "Holter Monitor 24 Hour Test",
+                                "Holter Monitoring",
+                                "Holter Monitoring Test",
+                                "Holter Monitors",
+                                "holters monitor",
+                                "Monitoring, Ambulatory Electrocardiographic",
+                                "Monitoring, Ambulatory Electrocardiography"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "Continuous ECG monitoring",
+                                "ECG (electrocardiography) monitoring"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "24-Hour EKG",
+                                "24-Hour Holter Monitoring",
+                                "ambulatory ecg",
+                                "Ambulatory ECG",
+                                "Ambulatory ECG monitoring",
+                                "Ambulatory EKG",
+                                "ambulatory electrocardiogram",
+                                "Ambulatory Electrocardiogram",
+                                "Ambulatory electrocardiogram (procedure)",
+                                "Ambulatory Electrocardiographic Monitoring",
+                                "Ambulatory Electrocardiography",
+                                "Ambulatory Electrocardiography Device",
+                                "Ambulatory Electrocardiography Monitoring",
+                                "Ambulatory Monitor",
+                                "Ambulatory Monitors",
+                                "cardiac event monitors",
+                                "Cardiac event recording",
+                                "Cardiac event recording (regime/therapy)",
+                                "continuous EKG monitoring",
+                                "Continuous electrocardiogram monitoring",
+                                "Continuous electrocardiogram monitoring (procedure)",
+                                "Dynamic Electrocardiography",
+                                "Electrocardiographic monitor and recorder",
+                                "Electrocardiographic monitor and recorder, device",
+                                "Electrocardiographic monitor and recorder, device (physical object)",
+                                "Electrocardiographic Monitoring, Ambulatory",
+                                "Electrocardiography Monitoring, Ambulatory",
+                                "Electrocardiography, Ambulatory",
+                                "Electrocardiography, Dynamic",
+                                "Holter Heart Monitor",
+                                "holter monitor",
+                                "Holter Monitor (24h)",
+                                "Holter Monitor 24 Hour Test",
+                                "Holter Monitoring",
+                                "Holter Monitoring Test",
+                                "Holter Monitors",
+                                "holters monitor",
+                                "Monitoring, Ambulatory Electrocardiographic",
+                                "Monitoring, Ambulatory Electrocardiography",
+                                "control electrocardiográfico continuo",
+                                "control electrocardiográfico continuo (procedimiento)",
+                                "ECG ambulatorio",
+                                "Electrocardiografía Ambulatoria",
+                                "Electrocardiografía Dinamica",
+                                "electrocardiograma ambulatorio",
+                                "electrocardiograma ambulatorio (procedimiento)",
+                                "monitor Holter",
+                                "monitor y registrador electrocardiográfico",
+                                "monitor y registrador electrocardiográfico (objeto físico)",
+                                "Monitoreo Electrocardiográfico Ambulatorio",
+                                "Monitorización Electrocardiográfica Ambulatoria",
+                                "registro de evento cardíaco",
+                                "registro de evento cardíaco (régimen/tratamiento)"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "Continuous ECG monitoring",
+                                "ECG (electrocardiography) monitoring",
+                                "control ECG continuo"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "cpt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "93224",
+                                "93225",
+                                "93226",
+                                "93227",
+                                "93228",
+                                "93241",
+                                "93242",
+                                "93243",
+                                "93244",
+                                "93245",
+                                "93246",
+                                "93247",
+                                "93248",
+                                "93268",
+                                "93270",
+                                "93272"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "164850009",
+                                "86184003"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "252417001",
+                                "266706003",
+                                "395148004",
+                                "425529000",
+                                "427047002",
+                                "427446001",
+                                "46825001",
+                                "715994002"
+                            ]
+                        }
+                    ],
+                    "loinc": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "18754-2"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "medicaltest",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    },
+                    "es-us": {
+                        "type": "medicaltest",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa103080",
+                "href": "https://content.healthwise.net/articles/aa103080/en-us",
+                "version": "13.6",
+                "authoringVersion": "12",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us",
+                    "fr-ca"
+                ],
+                "type": "decisionpoint",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "13",
+                "maxAge": "64",
+                "meshAges": [
+                    "D000293",
+                    "D055815",
+                    "D000328",
+                    "D008875"
+                ],
+                "gender": [
+                    "female"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1018",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Genetic Conditions",
+                            "learningCenterId": "center1018"
+                        },
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Pregnancy and Childbirth",
+                            "learningCenterId": "center1030"
+                        },
+                        {
+                            "categoryId": "cat1039",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Wise Health Consumer",
+                            "learningCenterId": "center1039"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1018",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Trastornos genéticos",
+                            "learningCenterId": "center1018"
+                        },
+                        {
+                            "categoryId": "cat1030",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Embarazo y parto",
+                            "learningCenterId": "center1030"
+                        },
+                        {
+                            "categoryId": "cat1039",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Consumidor de salud sensato",
+                            "learningCenterId": "center1039"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-11-09",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_21474",
+                        "name": "Chorionic Villus Sampling"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_21435",
+                        "name": "Amniocentesis"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04023",
+                        "name": "Obstetrics"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23376",
+                        "name": "Maternal Fetal Medicine"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23375",
+                        "name": "Midwifery"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Pregnancy: Should I Have Amniocentesis?",
+                    "es-us": "Embarazo: ¿Debería hacerme una amniocentesis?"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Guides you through the decision to have an amniocentesis test. Explains what amniocentesis is and how it is done. Discusses birth defects. Looks at the risks and benefits of amniocentesis. Includes interactive tool to help you make your decision.",
+                    "es-us": "Guía en la decisión de hacerse una amniocentesis. Explica qué es la amniocentesis y cómo se hace. Explica las anomalías congénitas (de nacimiento). Examina los riesgos y los beneficios de la amniocentesis. Incluye una herramienta interactiva para ayudarla a decidir."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "bo1075",
+                            "title": "Get the facts"
+                        },
+                        {
+                            "sectionHwid": "bo1076",
+                            "title": "Compare your options"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpfeelings",
+                            "title": "What matters most to you?"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpdecision",
+                            "title": "Where are you leaning now?"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpquiz",
+                            "title": "What else do you need to make your decision?"
+                        },
+                        {
+                            "sectionHwid": "ap1253",
+                            "title": "Personal Stories"
+                        },
+                        {
+                            "sectionHwid": "aa103080-Bib",
+                            "title": "References"
+                        },
+                        {
+                            "sectionHwid": "aa103080-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "bo1075",
+                            "title": "Obtenga los hechos"
+                        },
+                        {
+                            "sectionHwid": "bo1076",
+                            "title": "Compare sus opciones"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpfeelings",
+                            "title": "¿Qué es lo que más le importa?"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpdecision",
+                            "title": "¿Hacia qué se inclina ahora?"
+                        },
+                        {
+                            "sectionHwid": "aa103080-dpquiz",
+                            "title": "¿Qué más necesita para tomar su decisión?"
+                        },
+                        {
+                            "sectionHwid": "ap1253",
+                            "title": "Historias personales"
+                        },
+                        {
+                            "sectionHwid": "aa103080-Bib",
+                            "title": "Referencias"
+                        },
+                        {
+                            "sectionHwid": "aa103080-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "1st trimester",
+                                "2nd trimester",
+                                "3rd trimester",
+                                "AC - Amniocentesis",
+                                "Amnio",
+                                "Amniocenteses",
+                                "Amniocentesis",
+                                "Amniocentesis (procedure)",
+                                "amniocentesis procedure",
+                                "Amniotic fluid analysis",
+                                "Amniotic Fluid Test",
+                                "amniotic fluid test (AFT)",
+                                "Amniotic Fluid Test (AFT)",
+                                "Biopsies, Chorionic Villi",
+                                "Biopsy, Chorionic Villi",
+                                "Care, Antenatal",
+                                "Chorionic Villi Biopsies",
+                                "Chorionic Villi Biopsy",
+                                "Chorionic Villi Biopsy (CVB)",
+                                "Chorionic Villi Sampling",
+                                "Chorionic Villous Sampling",
+                                "chorionic villus sampling",
+                                "chorionic villus sampling (CVS)",
+                                "Chorionic Villus Samplings",
+                                "CVB - Chorionic villus biopsy",
+                                "CVS - Chorionic villus sampling",
+                                "CVS Test",
+                                "CVS Testing",
+                                "Diagnostic amniocentesis",
+                                "Diagnostic amniocentesis (procedure)",
+                                "Early Placental Phase",
+                                "Early Placental Phases",
+                                "Encounter due to first normal pregnancy supervision",
+                                "First Pregnancy Trimester",
+                                "First Pregnancy Trimesters",
+                                "first trimester",
+                                "First trimester (qualifier value)",
+                                "First Trimester Pregnancies",
+                                "First Trimester Pregnancy",
+                                "First trimester pregnancy (finding)",
+                                "First Trimesters",
+                                "gravid",
+                                "Incision and drainage of amnion",
+                                "last pregnancy trimester",
+                                "Last Trimester",
+                                "Last trimester of pregnancy",
+                                "last trimester pregnancy",
+                                "Last Trimesters",
+                                "Maternity",
+                                "midtrimester",
+                                "Midtrimesters",
+                                "Patient currently pregnant",
+                                "Patient currently pregnant (finding)",
+                                "Phase, Early Placental",
+                                "Phases, Early Placental",
+                                "Placental Phase, Early",
+                                "Placental Phases, Early",
+                                "Pregnancies, First Trimester",
+                                "Pregnancies, Second Trimester",
+                                "Pregnancies, Third Trimester",
+                                "Pregnancy",
+                                "Pregnancy not delivered",
+                                "pregnancy second trimester",
+                                "pregnancy third trimester",
+                                "pregnancy trimester",
+                                "Pregnancy Trimester Codes",
+                                "Pregnancy Trimester, First",
+                                "Pregnancy Trimester, Second",
+                                "Pregnancy Trimester, Third",
+                                "Pregnancy Trimesters",
+                                "Pregnancy Trimesters, First",
+                                "Pregnancy Trimesters, Second",
+                                "Pregnancy Trimesters, Third",
+                                "Pregnancy, First Trimester",
+                                "Pregnancy, Second Trimester",
+                                "Pregnancy, Third Trimester",
+                                "pregnant",
+                                "Pregnant",
+                                "pregnant patient",
+                                "Sampling of chorionic villus",
+                                "Sampling of chorionic villus (procedure)",
+                                "Sampling, Chorionic Villi",
+                                "Sampling, Chorionic Villus",
+                                "Samplings, Chorionic Villi",
+                                "Samplings, Chorionic Villus",
+                                "Second Pregnancy Trimester",
+                                "Second Pregnancy Trimesters",
+                                "second trimester",
+                                "Second trimester (qualifier value)",
+                                "Second Trimester Pregnancies",
+                                "Second Trimester Pregnancy",
+                                "Second trimester pregnancy (finding)",
+                                "Second Trimesters",
+                                "Third Pregnancy Trimester",
+                                "Third Pregnancy Trimesters",
+                                "third trimester",
+                                "Third trimester (qualifier value)",
+                                "Third Trimester Pregnancies",
+                                "Third Trimester Pregnancy",
+                                "Third trimester pregnancy (finding)",
+                                "Third Trimesters",
+                                "trimester",
+                                "trimester pregnancy",
+                                "trimester third",
+                                "Trimester, First",
+                                "Trimester, Last",
+                                "Trimester, Pregnancy",
+                                "Trimester, Second",
+                                "Trimester, Third",
+                                "trimesters",
+                                "Trimesters",
+                                "Trimesters (qualifier value)",
+                                "Trimesters of Pregnancy",
+                                "Trimesters, First",
+                                "Trimesters, Last",
+                                "Trimesters, Pregnancy",
+                                "Trimesters, Second",
+                                "Trimesters, Third"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "keywords": [
+                                "antenatal care",
+                                "Antenatal care (regime/therapy)",
+                                "antepartum care",
+                                "Antepartum care of mother",
+                                "Care, Prenatal",
+                                "Pregnancy care",
+                                "Prenatal care"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "2",
+                            "keywords": [
+                                "1st trimester",
+                                "2nd trimester",
+                                "3rd trimester",
+                                "AC - Amniocentesis",
+                                "Amnio",
+                                "Amniocenteses",
+                                "Amniocentesis",
+                                "Amniocentesis (procedure)",
+                                "amniocentesis procedure",
+                                "Amniotic fluid analysis",
+                                "Amniotic Fluid Test",
+                                "amniotic fluid test (AFT)",
+                                "Amniotic Fluid Test (AFT)",
+                                "Biopsies, Chorionic Villi",
+                                "Biopsy, Chorionic Villi",
+                                "Care, Antenatal",
+                                "Chorionic Villi Biopsies",
+                                "Chorionic Villi Biopsy",
+                                "Chorionic Villi Biopsy (CVB)",
+                                "Chorionic Villi Sampling",
+                                "Chorionic Villous Sampling",
+                                "chorionic villus sampling",
+                                "chorionic villus sampling (CVS)",
+                                "Chorionic Villus Samplings",
+                                "CVB - Chorionic villus biopsy",
+                                "CVS - Chorionic villus sampling",
+                                "CVS Test",
+                                "CVS Testing",
+                                "Diagnostic amniocentesis",
+                                "Diagnostic amniocentesis (procedure)",
+                                "Early Placental Phase",
+                                "Early Placental Phases",
+                                "Encounter due to first normal pregnancy supervision",
+                                "First Pregnancy Trimester",
+                                "First Pregnancy Trimesters",
+                                "first trimester",
+                                "First trimester (qualifier value)",
+                                "First Trimester Pregnancies",
+                                "First Trimester Pregnancy",
+                                "First trimester pregnancy (finding)",
+                                "First Trimesters",
+                                "gravid",
+                                "Incision and drainage of amnion",
+                                "last pregnancy trimester",
+                                "Last Trimester",
+                                "Last trimester of pregnancy",
+                                "last trimester pregnancy",
+                                "Last Trimesters",
+                                "Maternity",
+                                "midtrimester",
+                                "Midtrimesters",
+                                "Patient currently pregnant",
+                                "Patient currently pregnant (finding)",
+                                "Phase, Early Placental",
+                                "Phases, Early Placental",
+                                "Placental Phase, Early",
+                                "Placental Phases, Early",
+                                "Pregnancies, First Trimester",
+                                "Pregnancies, Second Trimester",
+                                "Pregnancies, Third Trimester",
+                                "Pregnancy",
+                                "Pregnancy not delivered",
+                                "pregnancy second trimester",
+                                "pregnancy third trimester",
+                                "pregnancy trimester",
+                                "Pregnancy Trimester Codes",
+                                "Pregnancy Trimester, First",
+                                "Pregnancy Trimester, Second",
+                                "Pregnancy Trimester, Third",
+                                "Pregnancy Trimesters",
+                                "Pregnancy Trimesters, First",
+                                "Pregnancy Trimesters, Second",
+                                "Pregnancy Trimesters, Third",
+                                "Pregnancy, First Trimester",
+                                "Pregnancy, Second Trimester",
+                                "Pregnancy, Third Trimester",
+                                "pregnant",
+                                "Pregnant",
+                                "pregnant patient",
+                                "Sampling of chorionic villus",
+                                "Sampling of chorionic villus (procedure)",
+                                "Sampling, Chorionic Villi",
+                                "Sampling, Chorionic Villus",
+                                "Samplings, Chorionic Villi",
+                                "Samplings, Chorionic Villus",
+                                "Second Pregnancy Trimester",
+                                "Second Pregnancy Trimesters",
+                                "second trimester",
+                                "Second trimester (qualifier value)",
+                                "Second Trimester Pregnancies",
+                                "Second Trimester Pregnancy",
+                                "Second trimester pregnancy (finding)",
+                                "Second Trimesters",
+                                "Third Pregnancy Trimester",
+                                "Third Pregnancy Trimesters",
+                                "third trimester",
+                                "Third trimester (qualifier value)",
+                                "Third Trimester Pregnancies",
+                                "Third Trimester Pregnancy",
+                                "Third trimester pregnancy (finding)",
+                                "Third Trimesters",
+                                "trimester",
+                                "trimester pregnancy",
+                                "trimester third",
+                                "Trimester, First",
+                                "Trimester, Last",
+                                "Trimester, Pregnancy",
+                                "Trimester, Second",
+                                "Trimester, Third",
+                                "trimesters",
+                                "Trimesters",
+                                "Trimesters (qualifier value)",
+                                "Trimesters of Pregnancy",
+                                "Trimesters, First",
+                                "Trimesters, Last",
+                                "Trimesters, Pregnancy",
+                                "Trimesters, Second",
+                                "Trimesters, Third",
+                                "amniocentesis",
+                                "amniocentesis (procedimiento)",
+                                "amniocentesis diagnóstica",
+                                "amniocentesis diagnóstica (procedimiento)",
+                                "Biopsia de la Vellosidad Coriónica",
+                                "Embarazo de Primer Trimestre",
+                                "Fase de Placenta Primaria",
+                                "incisión y drenaje del amnios",
+                                "Muestra de la Vellosidad Coriónica",
+                                "obtención de muestra de vellosidades coriónicas",
+                                "paciente actualmente embarazada",
+                                "paciente actualmente embarazada (hallazgo)",
+                                "Primer Trimestre",
+                                "primer trimestre (calificador)",
+                                "primer trimestre del embarazo",
+                                "primer trimestre del embarazo (hallazgo)",
+                                "segundo trimestre",
+                                "segundo trimestre (calificador)",
+                                "segundo trimestre del embarazo",
+                                "segundo trimestre del embarazo (hallazgo)",
+                                "Tercer Trimestre",
+                                "tercer trimestre (calificador)",
+                                "tercer trimestre del embarazo",
+                                "tercer trimestre del embarazo (hallazgo)",
+                                "toma de muestra de vellosidades coriónicas",
+                                "toma de muestra de vellosidades coriónicas (procedimiento)",
+                                "Trimestre Intermedio",
+                                "trimestres",
+                                "trimestres (calificador)",
+                                "Trimestres del Embarazo",
+                                "último trimestre del embarazo"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "keywords": [
+                                "antenatal care",
+                                "Antenatal care (regime/therapy)",
+                                "antepartum care",
+                                "Antepartum care of mother",
+                                "Care, Prenatal",
+                                "Pregnancy care",
+                                "Prenatal care",
+                                "atención del embarazo",
+                                "atención prenatal",
+                                "atención prenatal (régimen/tratamiento)"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "icd9": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "75.1"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "V22.0",
+                                "V22.1",
+                                "V22.2"
+                            ]
+                        }
+                    ],
+                    "icd10": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "Z34.01",
+                                "Z34.02",
+                                "Z34.03",
+                                "Z34.81",
+                                "Z34.82",
+                                "Z34.83",
+                                "Z34.91",
+                                "Z34.92",
+                                "Z34.93"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "Z33.1",
+                                "Z34.00",
+                                "Z34.80",
+                                "Z34.90"
+                            ]
+                        }
+                    ],
+                    "cpt": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "59000",
+                                "59015",
+                                "88235"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "255246003",
+                                "255247007",
+                                "255248002",
+                                "265635006",
+                                "303720006",
+                                "34536000",
+                                "72892002"
+                            ]
+                        },
+                        {
+                            "relevance": "3",
+                            "codes": [
+                                "102875003",
+                                "127365008",
+                                "14418008",
+                                "146799005",
+                                "169560008",
+                                "169561007",
+                                "169562000",
+                                "169563005",
+                                "169564004",
+                                "169565003",
+                                "17618008",
+                                "177107006",
+                                "177112007",
+                                "22281000119101",
+                                "22879003",
+                                "236952005",
+                                "236953000",
+                                "236954006",
+                                "237239003",
+                                "237241002",
+                                "237244005",
+                                "248985009",
+                                "275222009",
+                                "275223004",
+                                "289448000",
+                                "289572007",
+                                "370383002",
+                                "41587001",
+                                "425707001",
+                                "425939004",
+                                "426287008",
+                                "427230007",
+                                "429240000",
+                                "433153009",
+                                "439311009",
+                                "443005005",
+                                "57630001",
+                                "59466002",
+                                "65388005",
+                                "65727000",
+                                "6867004",
+                                "77386006",
+                                "80856001",
+                                "82634006",
+                                "87527008"
+                            ]
+                        }
+                    ],
+                    "loinc": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "33901-0",
+                                "69400-0"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "decisionpoint",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    },
+                    "es-us": {
+                        "type": "decisionpoint",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa103823",
+                "href": "https://content.healthwise.net/articles/aa103823/en-us",
+                "version": "13.6",
+                "authoringVersion": "8",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "multimedia",
+                "subType": "image",
+                "family": "kb",
+                "rank": "4",
+                "minAge": null,
+                "maxAge": null,
+                "meshAges": null,
+                "gender": null,
+                "audience": null,
+                "categories": {
+                    "en-us": [],
+                    "es-us": []
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-11-09",
+                "concepts": null,
+                "specialties": null,
+                "titles": {
+                    "en-us": "Fibromyalgia Tender Points",
+                    "es-us": "Puntos sensibles de la fibromialgia"
+                },
+                "synonyms": null,
+                "abstracts": {},
+                "sections": {},
+                "keywords": {},
+                "medicalCodes": {},
+                "statusChanges": {
+                    "en-us": {
+                        "type": "multimedia : subtypes [image, tool]",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    },
+                    "es-us": {
+                        "type": "multimedia : subtypes [image, tool]",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "content"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa104339spec",
+                "href": "https://content.healthwise.net/articles/aa104339spec/en-us",
+                "version": "13.6",
+                "authoringVersion": "40",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "otherdetail",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "18",
+                "maxAge": "110",
+                "meshAges": [
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Complementary Medicine",
+                            "learningCenterId": "center1008"
+                        },
+                        {
+                            "categoryId": "cat1051",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Pain Control",
+                            "learningCenterId": "center1051"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Medicina complementaria",
+                            "learningCenterId": "center1008"
+                        },
+                        {
+                            "categoryId": "cat1051",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Control de dolor",
+                            "learningCenterId": "center1051"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-09-08",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04280",
+                        "name": "Manual Therapy"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_22752",
+                        "name": "Bodywork"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04006",
+                        "name": "Complementary and Alternative Medicine"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Bodywork",
+                    "es-us": "Trabajo corporal y terapia manual"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Discusses complementary medicine of bodywork and manual therapy used for relaxation and pain relief. Includes massage, Alexander technique, Feldenkrais method, Trager approach, Rolfing, deep tissue massage, and dance. Covers safety.",
+                    "es-us": "Trata los métodos de medicina complementaria de trabajo corporal y terapia manual usados para la relajación y el alivio del dolor. Incluye masajes, la técnica de Alexander, el método Feldenkrais, el método Trager, Rolfing, el masaje de tejido profundo y la danza. Habla de seguridad."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "acl6972",
+                            "title": "Treatment Overview"
+                        },
+                        {
+                            "sectionHwid": "acl7031",
+                            "title": "Why It Is Used"
+                        },
+                        {
+                            "sectionHwid": "acl7032",
+                            "title": "Risks"
+                        },
+                        {
+                            "sectionHwid": "aa104339spec-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa104339spec-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "tp21269",
+                            "title": "Generalidades"
+                        },
+                        {
+                            "sectionHwid": "aa104339spec-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa104339spec-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "alexander technique",
+                                "Body Work",
+                                "Bodywork",
+                                "Bodywork Therapies",
+                                "Bodywork Therapy",
+                                "Bodyworks",
+                                "dance/movement therapy",
+                                "deep tissue massage",
+                                "feldenkrais method",
+                                "Manual Medicine",
+                                "Manual Therapies",
+                                "manual therapy",
+                                "Manual therapy",
+                                "Manual Therapy",
+                                "Manual therapy (regime/therapy)",
+                                "rolfing",
+                                "Therapies, Manual",
+                                "therapy manual",
+                                "Therapy, Manual",
+                                "trager approach"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "alexander technique",
+                                "Body Work",
+                                "Bodywork",
+                                "Bodywork Therapies",
+                                "Bodywork Therapy",
+                                "Bodyworks",
+                                "dance/movement therapy",
+                                "deep tissue massage",
+                                "feldenkrais method",
+                                "Manual Medicine",
+                                "Manual Therapies",
+                                "manual therapy",
+                                "Manual therapy",
+                                "Manual Therapy",
+                                "Manual therapy (regime/therapy)",
+                                "rolfing",
+                                "Therapies, Manual",
+                                "therapy manual",
+                                "Therapy, Manual",
+                                "trager approach",
+                                "Prácticas Corporales",
+                                "terapia manual",
+                                "terapia manual (régimen/tratamiento)",
+                                "Terapias Manuales"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "cpt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "97140"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "229315006"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "16187000",
+                                "178952008",
+                                "229422004",
+                                "29367007",
+                                "29419003",
+                                "33503006",
+                                "46893003",
+                                "49332003",
+                                "746002",
+                                "81389003",
+                                "84790009"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    },
+                    "es-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    }
+                },
+                "behaviorChange": {
+                    "en-us": {
+                        "techniques": [
+                            {
+                                "active": true,
+                                "facetId": "fidp6180",
+                                "name": "Course",
+                                "concepts": null
+                            }
+                        ],
+                        "stages": [
+                            {
+                                "active": true,
+                                "facetId": "fidp3223",
+                                "name": "Awareness",
+                                "concepts": null
+                            }
+                        ]
+                    },
+                    "es-us": {
+                        "techniques": [
+                            {
+                                "active": true,
+                                "facetId": "fidp6180",
+                                "name": "Course",
+                                "concepts": null
+                            }
+                        ],
+                        "stages": [
+                            {
+                                "active": true,
+                                "facetId": "fidp3223",
+                                "name": "Awareness",
+                                "concepts": null
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "hwid": "aa104378",
+                "href": "https://content.healthwise.net/articles/aa104378/en-us",
+                "version": "13.6",
+                "authoringVersion": "38",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "focus",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "18",
+                "maxAge": "110",
+                "meshAges": [
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1002",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Back and Neck Pain",
+                            "learningCenterId": "center1002"
+                        },
+                        {
+                            "categoryId": "cat1004",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Bones, Joints, and Muscles",
+                            "learningCenterId": "center1004"
+                        },
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Complementary Medicine",
+                            "learningCenterId": "center1008"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1002",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Dolor de espalda y cuello",
+                            "learningCenterId": "center1002"
+                        },
+                        {
+                            "categoryId": "cat1004",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Huesos, articulaciones y músculos",
+                            "learningCenterId": "center1004"
+                        },
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Medicina complementaria",
+                            "learningCenterId": "center1008"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-09-08",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_22299",
+                        "name": "Spinal Manipulation"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04373",
+                        "name": "Chiropractic Therapy"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04030",
+                        "name": "Physical Therapy"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04006",
+                        "name": "Complementary and Alternative Medicine"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Chiropractic",
+                    "es-us": "Quiropráctica"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Chiropractic is an approach to health care that tries to relieve pain through spinal manipulation. It is most often used for back or neck pain, and sometimes it is used for headaches or for pain in the arms or legs. Spinal manipulation involves working on the head, shoulders, neck, back, or hips to help relieve pain. It...",
+                    "es-us": "La quiropráctica es un enfoque a la atención médica que utiliza la manipulación espinal para aliviar el dolor. Se utiliza con mayor frecuencia para el dolor de espalda o de cuello. A veces se utiliza para dolores de cabeza o dolor en los brazos o las piernas. La mayoría de los médicos de quiropráctica ( quiroprácticos)..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "acl7052",
+                            "title": "Treatment Overview"
+                        },
+                        {
+                            "sectionHwid": "aa104378-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa104378-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "aa104378-sec",
+                            "title": "Generalidades"
+                        },
+                        {
+                            "sectionHwid": "aa104378-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa104378-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "adjustment chiropractic",
+                                "Adjustment, Chiropractic",
+                                "Adjustment, Chiropractic Spinal",
+                                "adjustments chiropractic",
+                                "Adjustments, Chiropractic Spinal",
+                                "chiropractic adjustment",
+                                "Chiropractic Adjustment",
+                                "Chiropractic Adjustments",
+                                "Chiropractic Care",
+                                "Chiropractic manipulation",
+                                "Chiropractic Manipulation",
+                                "Chiropractic manipulation (procedure)",
+                                "chiropractic manipulations",
+                                "Chiropractic service",
+                                "Chiropractic service (qualifier value)",
+                                "Chiropractic services",
+                                "Chiropractic Services",
+                                "Chiropractic Spinal Adjustment",
+                                "Chiropractic Spinal Adjustments",
+                                "Chiropractic Therapy",
+                                "Chiropractic Treatment",
+                                "Chiropractic Treatments",
+                                "Chiropractor",
+                                "Chiropractor (occupation)",
+                                "chiropractors",
+                                "Manipulation of spine",
+                                "Manipulation of Spine",
+                                "Manipulation of spine (procedure)",
+                                "Manipulation of the vertebrae",
+                                "Manipulation of the vertebrae - non-surgical",
+                                "Manipulation of the vertebrae - non-surgical (procedure)",
+                                "Manipulation of vertebral column",
+                                "manipulation spinal",
+                                "manipulation spine",
+                                "Manipulation, Chiropractic",
+                                "Manipulation, Spinal",
+                                "manipulations spinal",
+                                "Spinal Adjustment",
+                                "Spinal Adjustment, Chiropractic",
+                                "Spinal Adjustments, Chiropractic",
+                                "spinal manipulation",
+                                "Spinal Manipulations",
+                                "spine manipulation",
+                                "Spine Manipulation",
+                                "Spine Manipulations"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "adjustment chiropractic",
+                                "Adjustment, Chiropractic",
+                                "Adjustment, Chiropractic Spinal",
+                                "adjustments chiropractic",
+                                "Adjustments, Chiropractic Spinal",
+                                "chiropractic adjustment",
+                                "Chiropractic Adjustment",
+                                "Chiropractic Adjustments",
+                                "Chiropractic Care",
+                                "Chiropractic manipulation",
+                                "Chiropractic Manipulation",
+                                "Chiropractic manipulation (procedure)",
+                                "chiropractic manipulations",
+                                "Chiropractic service",
+                                "Chiropractic service (qualifier value)",
+                                "Chiropractic services",
+                                "Chiropractic Services",
+                                "Chiropractic Spinal Adjustment",
+                                "Chiropractic Spinal Adjustments",
+                                "Chiropractic Therapy",
+                                "Chiropractic Treatment",
+                                "Chiropractic Treatments",
+                                "Chiropractor",
+                                "Chiropractor (occupation)",
+                                "chiropractors",
+                                "Manipulation of spine",
+                                "Manipulation of Spine",
+                                "Manipulation of spine (procedure)",
+                                "Manipulation of the vertebrae",
+                                "Manipulation of the vertebrae - non-surgical",
+                                "Manipulation of the vertebrae - non-surgical (procedure)",
+                                "Manipulation of vertebral column",
+                                "manipulation spinal",
+                                "manipulation spine",
+                                "Manipulation, Chiropractic",
+                                "Manipulation, Spinal",
+                                "manipulations spinal",
+                                "Spinal Adjustment",
+                                "Spinal Adjustment, Chiropractic",
+                                "Spinal Adjustments, Chiropractic",
+                                "spinal manipulation",
+                                "Spinal Manipulations",
+                                "spine manipulation",
+                                "Spine Manipulation",
+                                "Spine Manipulations",
+                                "Ajuste Espinal Quiropráctico",
+                                "Ajuste Quiropráctico",
+                                "manipulación de la columna vertebral",
+                                "manipulación de la columna vertebral (procedimiento)",
+                                "manipulación de vértebras - no quirúrgica",
+                                "Manipulación Espinal",
+                                "manipulación quiropráctica",
+                                "manipulación quiropráctica (procedimiento)",
+                                "manipulación vertebral no quirúrgica",
+                                "manipulación vertebral no quirúrgica (procedimiento)",
+                                "quiropráctico",
+                                "quiropráctico (ocupación)"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "icd9": [
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "93.15"
+                            ]
+                        }
+                    ],
+                    "cpt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "98940",
+                                "98941",
+                                "98942",
+                                "98943"
+                            ]
+                        }
+                    ],
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "225511007",
+                                "3842006",
+                                "44275008",
+                                "46947000",
+                                "722170006"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "229408004",
+                                "229409007",
+                                "229412005",
+                                "229416008",
+                                "229421006",
+                                "29419003",
+                                "49332003"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "focus",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    },
+                    "es-us": {
+                        "type": "focus",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    }
+                },
+                "behaviorChange": {
+                    "en-us": {
+                        "techniques": [
+                            {
+                                "active": true,
+                                "facetId": "fidp6180",
+                                "name": "Course",
+                                "concepts": null
+                            }
+                        ],
+                        "stages": [
+                            {
+                                "active": true,
+                                "facetId": "fidp3223",
+                                "name": "Awareness",
+                                "concepts": null
+                            }
+                        ]
+                    },
+                    "es-us": {
+                        "techniques": [
+                            {
+                                "active": true,
+                                "facetId": "fidp6180",
+                                "name": "Course",
+                                "concepts": null
+                            }
+                        ],
+                        "stages": [
+                            {
+                                "active": true,
+                                "facetId": "fidp3223",
+                                "name": "Awareness",
+                                "concepts": null
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "hwid": "aa104487spec",
+                "href": "https://content.healthwise.net/articles/aa104487spec/en-us",
+                "version": "13.6",
+                "authoringVersion": "36",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "otherdetail",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "18",
+                "maxAge": "110",
+                "meshAges": [
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Complementary Medicine",
+                            "learningCenterId": "center1008"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Medicina complementaria",
+                            "learningCenterId": "center1008"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-09-08",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23198",
+                        "name": "Healing Touch"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04006",
+                        "name": "Complementary and Alternative Medicine"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Healing Touch",
+                    "es-us": "Toque curativo"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Like other complementary medicine therapies, healing touch starts with the idea that people are naturally healthy. The way people live and think may disturb their natural energy, and they may become ill. The aim of healing touch is to focus (or channel) healing energy to restore natural health. Practitioners of healing...",
+                    "es-us": "Al igual que otras terapias de medicina complementaria, el toque curativo comienza con la idea de que las personas son saludables por naturaleza. La manera en que las personas viven y piensan puede alterar su energía natural y puede hacer que se enfermen. El objetivo del toque curativo es enfocar (o canalizar) la..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "acl6879",
+                            "title": "Treatment Overview"
+                        },
+                        {
+                            "sectionHwid": "acl6391",
+                            "title": "How Well It Works"
+                        },
+                        {
+                            "sectionHwid": "acl6880",
+                            "title": "Risks"
+                        },
+                        {
+                            "sectionHwid": "aa104487spec-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa104487spec-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "acl6879",
+                            "title": "Generalidades del tratamiento"
+                        },
+                        {
+                            "sectionHwid": "acl6391",
+                            "title": "Cuál es su eficacia"
+                        },
+                        {
+                            "sectionHwid": "acl6880",
+                            "title": "Riesgos"
+                        },
+                        {
+                            "sectionHwid": "aa104487spec-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa104487spec-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "healing touch",
+                                "Healing, Spiritual",
+                                "Healings, Spiritual",
+                                "Non-Contact Therapeutic Touch",
+                                "Spiritual Healing",
+                                "Spiritual Healings",
+                                "Therapeutic tactile stimulation",
+                                "Therapeutic Touch",
+                                "Therapeutic touch (regime/therapy)",
+                                "Touch",
+                                "Touch (regime/therapy)",
+                                "touch healing",
+                                "Touch, Therapeutic"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "healing touch",
+                                "Healing, Spiritual",
+                                "Healings, Spiritual",
+                                "Non-Contact Therapeutic Touch",
+                                "Spiritual Healing",
+                                "Spiritual Healings",
+                                "Therapeutic tactile stimulation",
+                                "Therapeutic Touch",
+                                "Therapeutic touch (regime/therapy)",
+                                "Touch",
+                                "Touch (regime/therapy)",
+                                "touch healing",
+                                "Touch, Therapeutic",
+                                "Curación Espiritual",
+                                "Tacto Terapéutico",
+                                "toque",
+                                "toque (régimen/tratamiento)",
+                                "toque terapéutico",
+                                "toque terapéutico (régimen/tratamiento)"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "386475005",
+                                "386476006"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    },
+                    "es-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa104596spec",
+                "href": "https://content.healthwise.net/articles/aa104596spec/en-us",
+                "version": "13.6",
+                "authoringVersion": "39",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us",
+                    "fr-ca"
+                ],
+                "type": "otherdetail",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "18",
+                "maxAge": "110",
+                "meshAges": [
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Complementary Medicine",
+                            "learningCenterId": "center1008"
+                        },
+                        {
+                            "categoryId": "cat1020",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Healthy Eating",
+                            "learningCenterId": "center1020"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Medicina complementaria",
+                            "learningCenterId": "center1008"
+                        },
+                        {
+                            "categoryId": "cat1020",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Alimentación saludable",
+                            "learningCenterId": "center1020"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-09-08",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04355",
+                        "name": "Dietary Supplements"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23812",
+                        "name": "Herbal Therapy"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04006",
+                        "name": "Complementary and Alternative Medicine"
+                    },
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_23400",
+                        "name": "Pharmacy"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Dietary Supplements (Herbal Medicines and Natural Products)",
+                    "es-us": "Suplementos dietéticos (medicamentos herbarios y productos naturales)"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Explains what dietary supplements are. Covers uses including preventing illness, reducing fever, curing infection, easing pain, and healing wounds. Covers safety issues like side effects and interaction with other medicines or supplements being taken.",
+                    "es-us": "Explica qué son los suplementos dietéticos. Cubre los usos que incluyen prevenir enfermedades, reducir la fiebre, curar una infección, aliviar el dolor y sanar heridas. Cubre temas de seguridad como los efectos secundarios y la interacción con otros medicamentos o suplementos que se estén tomando."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "tp21263",
+                            "title": "Treatment Overview"
+                        },
+                        {
+                            "sectionHwid": "acl7321",
+                            "title": "Why It Is Used"
+                        },
+                        {
+                            "sectionHwid": "acl7647",
+                            "title": "Risks"
+                        },
+                        {
+                            "sectionHwid": "aa104596spec-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa104596spec-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "tp21263",
+                            "title": "Generalidades del tratamiento"
+                        },
+                        {
+                            "sectionHwid": "acl7321",
+                            "title": "Por qué se usan"
+                        },
+                        {
+                            "sectionHwid": "acl7647",
+                            "title": "Riesgos"
+                        },
+                        {
+                            "sectionHwid": "aa104596spec-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa104596spec-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "dietary supplement",
+                                "Dietary Supplementations",
+                                "Dietary Supplements",
+                                "drug herbal",
+                                "drugs herbal",
+                                "Education about herbal supplement",
+                                "Education about herbal supplement (procedure)",
+                                "Food Supplement",
+                                "Food Supplementations",
+                                "Food Supplements",
+                                "foods supplements",
+                                "herbal drug",
+                                "Herbal Drugs",
+                                "Herbal Medicine",
+                                "Herbal Medicines and Natural Products",
+                                "Herbal Remedies",
+                                "Herbal Remedy",
+                                "Herbal Supplement",
+                                "Herbal Supplements",
+                                "Herbal Therapies",
+                                "Herbal Therapy",
+                                "Herbal Treatments",
+                                "Natural health product",
+                                "Natural health products",
+                                "Natural Health Products",
+                                "nutrient supplementation",
+                                "Nutrient supplementation",
+                                "Nutritional supplement",
+                                "nutritional supplementation",
+                                "nutritional supplements",
+                                "Nutritional Supplements",
+                                "Supplement, Dietary",
+                                "Supplement, Food",
+                                "Supplement, Herbal",
+                                "Supplementations, Dietary",
+                                "Supplements, Dietary",
+                                "Supplements, Food",
+                                "Supplements, Herbal",
+                                "Vitamins and Dietary Supplements",
+                                "Vitamins and Supplements"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "dietary supplement",
+                                "Dietary Supplementations",
+                                "Dietary Supplements",
+                                "drug herbal",
+                                "drugs herbal",
+                                "Education about herbal supplement",
+                                "Education about herbal supplement (procedure)",
+                                "Food Supplement",
+                                "Food Supplementations",
+                                "Food Supplements",
+                                "foods supplements",
+                                "herbal drug",
+                                "Herbal Drugs",
+                                "Herbal Medicine",
+                                "Herbal Medicines and Natural Products",
+                                "Herbal Remedies",
+                                "Herbal Remedy",
+                                "Herbal Supplement",
+                                "Herbal Supplements",
+                                "Herbal Therapies",
+                                "Herbal Therapy",
+                                "Herbal Treatments",
+                                "Natural health product",
+                                "Natural health products",
+                                "Natural Health Products",
+                                "nutrient supplementation",
+                                "Nutrient supplementation",
+                                "Nutritional supplement",
+                                "nutritional supplementation",
+                                "nutritional supplements",
+                                "Nutritional Supplements",
+                                "Supplement, Dietary",
+                                "Supplement, Food",
+                                "Supplement, Herbal",
+                                "Supplementations, Dietary",
+                                "Supplements, Dietary",
+                                "Supplements, Food",
+                                "Supplements, Herbal",
+                                "Vitamins and Dietary Supplements",
+                                "Vitamins and Supplements",
+                                "Complementos Alimenticios",
+                                "suplemento con nutrientes",
+                                "suplemento con nutrientes (producto)",
+                                "suplemento nutricional",
+                                "suplemento nutricional (producto)",
+                                "suplemento nutricional (sustancia)",
+                                "Suplementos Dietéticos",
+                                "Suplementos Herbales",
+                                "Suplementos Nutricionales"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "108961000",
+                                "373453009",
+                                "452991000124102"
+                            ]
+                        },
+                        {
+                            "relevance": "2",
+                            "codes": [
+                                "1217565003",
+                                "439181000124105",
+                                "439191000124108"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    },
+                    "es-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "updated",
+                        "updateType": "metadata"
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa104729spec",
+                "href": "https://content.healthwise.net/articles/aa104729spec/en-us",
+                "version": "13.6",
+                "authoringVersion": "37",
+                "deprecated": false,
+                "retirementDate": "",
+                "localizations": [
+                    "en-us",
+                    "es-us"
+                ],
+                "translatedLanguages": [
+                    "en-us",
+                    "en-ca",
+                    "es-us"
+                ],
+                "type": "otherdetail",
+                "subType": "",
+                "family": "kb",
+                "rank": "2",
+                "minAge": "18",
+                "maxAge": "110",
+                "meshAges": [
+                    "D055815",
+                    "D000328",
+                    "D008875",
+                    "D000368",
+                    "D000369"
+                ],
+                "gender": [
+                    "female",
+                    "male"
+                ],
+                "audience": [
+                    "Patient"
+                ],
+                "categories": {
+                    "en-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "en-us",
+                            "description": "Complementary Medicine",
+                            "learningCenterId": "center1008"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "categoryId": "cat1008",
+                            "type": "Consumer",
+                            "localization": "es-us",
+                            "description": "Medicina complementaria",
+                            "learningCenterId": "center1008"
+                        }
+                    ]
+                },
+                "deliverySettings": null,
+                "codewords": null,
+                "published": "2022-09-08",
+                "concepts": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04336",
+                        "name": "Homeopathy"
+                    }
+                ],
+                "specialties": [
+                    {
+                        "type": "concept",
+                        "conceptId": "HWCV_04006",
+                        "name": "Complementary and Alternative Medicine"
+                    }
+                ],
+                "titles": {
+                    "en-us": "Homeopathy",
+                    "es-us": "Homeopatía"
+                },
+                "synonyms": null,
+                "abstracts": {
+                    "en-us": "Homeopathy, or homeopathic medicine, is an alternative medical practice founded in the late 1700s in Germany. It's based on the idea that the body has the ability to heal itself. Homeopathic medicine views symptoms of illness as normal responses of the body as it attempts to regain health. Homeopathy is based on the...",
+                    "es-us": "La homeopatía, o medicina homeopática, es una práctica médica alternativa fundada a finales del siglo XVIII en Alemania. Se basa en la idea de que el cuerpo tiene la capacidad de sanarse a sí mismo. La medicina homeopática ve los síntomas de enfermedad como respuestas normales del cuerpo mientras intenta recuperar la..."
+                },
+                "sections": {
+                    "en-us": [
+                        {
+                            "sectionHwid": "acl6881",
+                            "title": "Treatment Overview"
+                        },
+                        {
+                            "sectionHwid": "acl7153",
+                            "title": "Why It Is Used"
+                        },
+                        {
+                            "sectionHwid": "acl6882",
+                            "title": "Risks"
+                        },
+                        {
+                            "sectionHwid": "aa104729spec-RelInfo",
+                            "title": "Related Information"
+                        },
+                        {
+                            "sectionHwid": "aa104729spec-Credits",
+                            "title": "Credits"
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "sectionHwid": "acl6881",
+                            "title": "Generalidades del tratamiento"
+                        },
+                        {
+                            "sectionHwid": "acl7153",
+                            "title": "Por qué se usa"
+                        },
+                        {
+                            "sectionHwid": "acl6882",
+                            "title": "Riesgos"
+                        },
+                        {
+                            "sectionHwid": "aa104729spec-RelInfo",
+                            "title": "Información relacionada"
+                        },
+                        {
+                            "sectionHwid": "aa104729spec-Credits",
+                            "title": "Créditos"
+                        }
+                    ]
+                },
+                "keywords": {
+                    "en-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "drugs homeopathic",
+                                "homeopathic drug",
+                                "homeopathic drugs",
+                                "homeopathic medicine",
+                                "Homeopathic medicine",
+                                "homeopathic medicines",
+                                "homeopathic products",
+                                "Homeopathic Remedies",
+                                "homeopathic remedy",
+                                "homeopathic therapy",
+                                "Homeopathic therapy (regime/therapy)",
+                                "Homeopathy",
+                                "homoeopathic medicine",
+                                "homoeopathic medicines",
+                                "Homoeopathic Therapies",
+                                "Homoeopathic therapy",
+                                "Homoeopathic Therapy",
+                                "Homoeopathic Treatment",
+                                "Homoeopathy",
+                                "Remedies, Homeopathic"
+                            ]
+                        }
+                    ],
+                    "es-us": [
+                        {
+                            "relevance": "1",
+                            "keywords": [
+                                "drugs homeopathic",
+                                "homeopathic drug",
+                                "homeopathic drugs",
+                                "homeopathic medicine",
+                                "Homeopathic medicine",
+                                "homeopathic medicines",
+                                "homeopathic products",
+                                "Homeopathic Remedies",
+                                "homeopathic remedy",
+                                "homeopathic therapy",
+                                "Homeopathic therapy (regime/therapy)",
+                                "Homeopathy",
+                                "homoeopathic medicine",
+                                "homoeopathic medicines",
+                                "Homoeopathic Therapies",
+                                "Homoeopathic therapy",
+                                "Homoeopathic Therapy",
+                                "Homoeopathic Treatment",
+                                "Homoeopathy",
+                                "Remedies, Homeopathic",
+                                "Homeopatía",
+                                "Homoeopatia",
+                                "medicamento homeopático",
+                                "medicamento homeopático (producto)",
+                                "Remedios Homeopáticos",
+                                "tratamiento homeopático",
+                                "tratamiento homeopático (régimen/tratamiento)"
+                            ]
+                        }
+                    ]
+                },
+                "medicalCodes": {
+                    "snomedCt": [
+                        {
+                            "relevance": "1",
+                            "codes": [
+                                "182968001",
+                                "349363001"
+                            ]
+                        }
+                    ]
+                },
+                "statusChanges": {
+                    "en-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    },
+                    "es-us": {
+                        "type": "otherdetail",
+                        "subtype": "",
+                        "forward": "",
+                        "status": "unchanged",
+                        "updateType": ""
+                    }
+                },
+                "behaviorChange": null
+            },
+            {
+                "hwid": "aa106305",
+                "href": "https://content.healthwise.net/articles/aa106305/en-us",
+                "authoringVersion": "38",
+                "type": "otherdetail"
+            },
+            {
+                "hwid": "aa106363",
+                "href": "https://content.healthwise.net/articles/aa106305/en-us",
+                "authoringVersion": "47",
+                "type": "otherdetail"
+            }
+
+        ],
+        "availableVersions": [
+            "13.6",
+            "13.5",
+            "13.4"
+        ],
+        "pagination": {
+            "skip": 0,
+            "top": 10,
+            "count": 10,
+            "total": 8956
+        }
+    }
+}
+
