@@ -14,7 +14,6 @@ def mocked_get_next_article_bundle(bundle_size = 5, pages = 2):
         x = json.load(json_file)
         y = x['data']['inventory']
         z = [(item['hwid'], item['href'], item['type'], item['authoringVersion']) for item in y]
-        # print(z)
         k = [
             z[:5],
             z[5:]
