@@ -90,7 +90,10 @@ class UnitTestCase(unittest.TestCase):
     @mock.patch('lambda_function.write_to_s3', side_effect= mocked_write_to_s3)
     @mock.patch('lambda_function.read_from_s3', side_effect= mocked_read_from_s3)
     def test_parse_correctness(self, readS3, writeS3, dictFromHREF, nxtBundle, articleCount):
-        return self.assertTrue(all([record['Correctness'] for record in json.load(open('Parse_Count.json'))]))
+        file_handle = open('Parse_Count.json')
+        response = all([record['Correctness'] for record in json.load(file_handle)])
+        file_handle.close()
+        self.assertTrue(response)
     
 
 
