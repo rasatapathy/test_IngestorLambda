@@ -1,2 +1,2 @@
 # test_IngestorLambda
-UnitTest Cases for ContentIngestor
+UnitTest Cases for ContentIngestorLambda
